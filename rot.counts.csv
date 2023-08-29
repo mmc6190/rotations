@@ -1,0 +1,97 @@
+﻿plot,block,treatment,count.1,date.1,count.2,date.2,count.3,date.3,count.4,date.4,weekly.total,cumulative ,x,week.data,proportion
+101,b1,spring alfalfa orchard grass,6/9/22,yes,na,no,na,no,na,no,38,65,,yes,87.83783784
+102,b1,rye silage ssgrass,6/9/22,yes,na,no,na,no,na,no,0,3,,yes,100
+103,b1,fall wheat clover,6/9/22,yes,na,no,na,no,na,no,2,5,,yes,83.33333333
+104,b1,fall wheat cc mix,6/9/22,yes,na,no,na,no,na,no,0,2,,yes,100
+105,b1,spring alfalfa oats,6/9/22,yes,na,no,na,no,na,no,0,3,,yes,75
+106,b1,oats cc mix,6/9/22,yes,na,no,na,no,na,no,13,13,,yes,100
+201,b2,fall wheat cc mix,6/9/22,yes,na,no,na,no,na,no,9,10,,yes,100
+202,b2,spring alfalfa oats,6/9/22,yes,na,no,na,no,na,no,6,3,,yes,100
+203,b2,fall wheat clover,6/9/22,yes,na,no,na,no,na,no,3,3,,yes,30
+204,b2,spring alfalfa orchard grass,6/9/22,yes,na,no,na,no,na,no,3,2,,yes,100
+205,b2,oats cc mix,6/9/22,yes,na,no,na,no,na,no,12,9,,yes,90
+206,b2,rye silage ssgrass,6/9/22,yes,na,no,na,no,na,no,18,20,,yes,74.07407407
+301,b3,rye silage ssgrass,6/9/22,yes,na,no,na,no,na,no,17,10,,yes,90.90909091
+302,b3,oats cc mix,6/9/22,yes,na,no,na,no,na,no,101,62,,yes,96.875
+303,b3,fall wheat cc mix,6/9/22,yes,na,no,na,no,na,no,64,39,,yes,90.69767442
+304,b3,spring alfalfa oats,6/9/22,yes,na,no,na,no,na,no,73,18,,yes,94.73684211
+305,b3,fall wheat clover,6/9/22,yes,na,no,na,no,na,no,10,14,,yes,93.33333333
+306,b3,spring alfalfa orchard grass,6/9/22,yes,na,no,na,no,na,no,12,13,,yes,86.66666667
+401,b4,fall wheat clover,6/9/22,yes,na,no,na,no,na,no,8,6,,yes,66.66666667
+402,b4,spring alfalfa orchard grass,6/9/22,yes,na,no,na,no,na,no,38,25,,yes,86.20689655
+403,b4,rye silage ssgrass,6/9/22,yes,na,no,na,no,na,no,36,36,,yes,100
+404,b4,oats cc mix,6/9/22,yes,na,no,na,no,na,no,22,22,,yes,81.48148148
+405,b4,spring alfalfa oats,6/9/22,yes,na,no,na,no,na,no,18,6,,yes,100
+406,b4,fall wheat cc mix,6/9/22,yes,na,no,na,no,na,no,17,15,,yes,100
+101,b1,spring alfalfa orchard grass,na,no,6/23/22,yes,na,no,na,no,2,68,,yes,91.89189189
+102,b1,rye silage ssgrass,na,no,6/23/22,yes,na,no,na,no,0,3,,yes,100
+103,b1,fall wheat clover,na,no,6/23/22,yes,na,no,na,no,0,5,,yes,83.33333333
+104,b1,fall wheat cc mix,na,no,6/23/22,yes,na,no,na,no,0,2,,yes,100
+105,b1,spring alfalfa oats,na,no,6/23/22,yes,na,no,na,no,0,4,,yes,100
+106,b1,oats cc mix,na,no,6/23/22,yes,na,no,na,no,0,13,,yes,100
+201,b2,fall wheat cc mix,na,no,6/23/22,yes,na,no,na,no,7,10,,yes,100
+202,b2,spring alfalfa oats,na,no,6/23/22,yes,na,no,na,no,10,3,,yes,100
+203,b2,fall wheat clover,na,no,6/23/22,yes,na,no,na,no,3,6,,yes,60
+204,b2,spring alfalfa orchard grass,na,no,6/23/22,yes,na,no,na,no,2,2,,yes,100
+205,b2,oats cc mix,na,no,6/23/22,yes,na,no,na,no,5,9,,yes,90
+206,b2,rye silage ssgrass,na,no,6/23/22,yes,na,no,na,no,19,25,,yes,92.59259259
+301,b3,rye silage ssgrass,na,no,6/23/22,yes,na,no,na,no,24,11,,yes,100
+302,b3,oats cc mix,na,no,6/23/22,yes,na,no,na,no,64,62,,yes,96.875
+303,b3,fall wheat cc mix,na,no,6/23/22,yes,na,no,na,no,49,42,,yes,97.6744186
+304,b3,spring alfalfa oats,na,no,6/23/22,yes,na,no,na,no,8,19,,yes,100
+305,b3,fall wheat clover,na,no,6/23/22,yes,na,no,na,no,11,15,,yes,100
+306,b3,spring alfalfa orchard grass,na,no,6/23/22,yes,na,no,na,no,9,13,,yes,86.66666667
+401,b4,fall wheat clover,na,no,6/23/22,yes,na,no,na,no,9,7,,yes,77.77777778
+402,b4,spring alfalfa orchard grass,na,no,6/23/22,yes,na,no,na,no,20,29,,yes,100
+403,b4,rye silage ssgrass,na,no,6/23/22,yes,na,no,na,no,6,36,,yes,100
+404,b4,oats cc mix,na,no,6/23/22,yes,na,no,na,no,16,27,,yes,100
+405,b4,spring alfalfa oats,na,no,6/23/22,yes,na,no,na,no,15,6,,yes,100
+406,b4,fall wheat cc mix,na,no,6/23/22,yes,na,no,na,no,14,15,,yes,100
+101,b1,spring alfalfa orchard grass,na,no,na,no,7/8/22,yes,na,no,3,68,,yes,91.89189189
+102,b1,rye silage ssgrass,na,no,na,no,7/8/22,yes,na,no,0,3,,yes,100
+103,b1,fall wheat clover,na,no,na,no,7/8/22,yes,na,no,2,6,,yes,100
+104,b1,fall wheat cc mix,na,no,na,no,7/8/22,yes,na,no,0,2,,yes,100
+105,b1,spring alfalfa oats,na,no,na,no,7/8/22,yes,na,no,0,4,,yes,100
+106,b1,oats cc mix,na,no,na,no,7/8/22,yes,na,no,0,13,,yes,100
+201,b2,fall wheat cc mix,na,no,na,no,7/8/22,yes,na,no,5,10,,yes,100
+202,b2,spring alfalfa oats,na,no,na,no,7/8/22,yes,na,no,9,3,,yes,100
+203,b2,fall wheat clover,na,no,na,no,7/8/22,yes,na,no,1,8,,yes,80
+204,b2,spring alfalfa orchard grass,na,no,na,no,7/8/22,yes,na,no,2,2,,yes,100
+205,b2,oats cc mix,na,no,na,no,7/8/22,yes,na,no,1,9,,yes,90
+206,b2,rye silage ssgrass,na,no,na,no,7/8/22,yes,na,no,8,27,,yes,100
+301,b3,rye silage ssgrass,na,no,na,no,7/8/22,yes,na,no,8,11,,yes,100
+302,b3,oats cc mix,na,no,na,no,7/8/22,yes,na,no,4,62,,yes,96.875
+303,b3,fall wheat cc mix,na,no,na,no,7/8/22,yes,na,no,52,43,,yes,100
+304,b3,spring alfalfa oats,na,no,na,no,7/8/22,yes,na,no,6,19,,yes,100
+305,b3,fall wheat clover,na,no,na,no,7/8/22,yes,na,no,6,15,,yes,100
+306,b3,spring alfalfa orchard grass,na,no,na,no,7/8/22,yes,na,no,6,15,,yes,100
+401,b4,fall wheat clover,na,no,na,no,7/8/22,yes,na,no,4,7,,yes,77.77777778
+402,b4,spring alfalfa orchard grass,na,no,na,no,7/8/22,yes,na,no,12,29,,yes,100
+403,b4,rye silage ssgrass,na,no,na,no,7/8/22,yes,na,no,6,36,,yes,100
+404,b4,oats cc mix,na,no,na,no,7/8/22,yes,na,no,16,27,,yes,100
+405,b4,spring alfalfa oats,na,no,na,no,7/8/22,yes,na,no,13,6,,yes,100
+406,b4,fall wheat cc mix,na,no,na,no,7/8/22,yes,na,no,10,15,,yes,100
+101,b1,spring alfalfa orchard grass,na,no,na,no,na,no,9/8/22,yes,5,74,,yes,100
+102,b1,rye silage ssgrass,na,no,na,no,na,no,9/8/22,yes,3,3,,yes,100
+103,b1,fall wheat clover,na,no,na,no,na,no,9/8/22,yes,0,6,,yes,100
+104,b1,fall wheat cc mix,na,no,na,no,na,no,9/8/22,yes,0,2,,yes,100
+105,b1,spring alfalfa oats,na,no,na,no,na,no,9/8/22,yes,0,4,,yes,100
+106,b1,oats cc mix,na,no,na,no,na,no,9/8/22,yes,0,13,,yes,100
+201,b2,fall wheat cc mix,na,no,na,no,na,no,9/8/22,yes,0,10,,yes,100
+202,b2,spring alfalfa oats,na,no,na,no,na,no,9/8/22,yes,0,3,,yes,100
+203,b2,fall wheat clover,na,no,na,no,na,no,9/8/22,yes,2,10,,yes,100
+204,b2,spring alfalfa orchard grass,na,no,na,no,na,no,9/8/22,yes,0,2,,yes,100
+205,b2,oats cc mix,na,no,na,no,na,no,9/8/22,yes,0,10,,yes,100
+206,b2,rye silage ssgrass,na,no,na,no,na,no,9/8/22,yes,16,27,,yes,100
+301,b3,rye silage ssgrass,na,no,na,no,na,no,9/8/22,yes,8,11,,yes,100
+302,b3,oats cc mix,na,no,na,no,na,no,9/8/22,yes,0,64,,yes,100
+303,b3,fall wheat cc mix,na,no,na,no,na,no,9/8/22,yes,16,43,,yes,100
+304,b3,spring alfalfa oats,na,no,na,no,na,no,9/8/22,yes,0,19,,yes,100
+305,b3,fall wheat clover,na,no,na,no,na,no,9/8/22,yes,0,15,,yes,100
+306,b3,spring alfalfa orchard grass,na,no,na,no,na,no,9/8/22,yes,0,15,,yes,100
+401,b4,fall wheat clover,na,no,na,no,na,no,9/8/22,yes,2,9,,yes,100
+402,b4,spring alfalfa orchard grass,na,no,na,no,na,no,9/8/22,yes,8,29,,yes,100
+403,b4,rye silage ssgrass,na,no,na,no,na,no,9/8/22,yes,4,36,,yes,100
+404,b4,oats cc mix,na,no,na,no,na,no,9/8/22,yes,0,27,,yes,100
+405,b4,spring alfalfa oats,na,no,na,no,na,no,9/8/22,yes,0,6,,yes,100
+406,b4,fall wheat cc mix,na,no,na,no,na,no,9/8/22,yes,10,15,,yes,100
