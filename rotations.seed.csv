@@ -1,0 +1,217 @@
+﻿plot,block,treatment,harvest.date1,harvest.data1,harvest.1,harvest.date2,harvest.data2,harvest.2,harvest.date3,harvest.data3,harvest.3,count.dates,quadrat,wh.coty,wh.0.2,wh.2.4,wh.4.12,wh.12,weekly.total,cumulative ,x,week.data,proportion,repo.data,reproductive,dates,seeds
+104,b1,wheat-cc mix,8/2/22,yes,914.6,na,no,na,na,no,na,6/1/22,0.25^2,20,11,0,0,0,31,31,74,no,41.89189189,no,na,no,na
+201,b2,wheat-cc mix,8/2/22,yes,107.6,na,no,na,na,no,na,6/1/22,0.25^2,0,3,0,0,0,3,3,3,no,100,no,na,no,na
+303,b3,wheat-cc mix,8/2/22,yes,2017.5,na,no,na,na,no,na,6/1/22,0.25^2,1,2,0,0,0,3,3,6,no,50,no,na,no,na
+406,b4,wheat-cc mix,8/2/22,yes,2945.55,na,no,na,na,no,na,6/1/22,0.25^2,2,0,0,0,0,2,2,2,no,100,no,na,no,na
+103,b1,wheat/clover,8/2/22,yes,511.1,9/14/22,yes,5131.25,na,no,na,6/1/22,0.25^2,3,0,0,0,0,3,3,4,no,75,no,na,no,na
+203,b2,wheat/clover,8/2/22,yes,255.55,9/14/22,yes,4392.61,na,no,na,6/1/22,0.25^2,0,6,2,4,0,12,12,13,no,92.30769231,no,na,no,na
+305,b3,wheat/clover,8/2/22,yes,1708.15,9/14/22,yes,3491.45,na,no,na,6/1/22,0.25^2,1,6,3,0,0,10,10,10,no,100,no,na,no,na
+401,b4,wheat/clover,8/2/22,yes,289.18,9/14/22,yes,3177.61,na,no,na,6/1/22,0.25^2,1,2,0,0,0,3,3,3,no,100,no,na,no,na
+106,b1,oats-cc mix,8/2/22,yes,2468.08,na,no,na,na,no,na,6/1/22,0.25^2,0,1,1,0,0,2,2,10,no,20,no,na,no,na
+205,b2,oats-cc mix,8/2/22,yes,2400.83,na,no,na,na,no,na,6/1/22,0.25^2,0,2,0,0,0,2,2,2,no,100,no,na,no,na
+302,b3,oats-cc mix,8/2/22,yes,2864.85,na,no,na,na,no,na,6/1/22,0.25^2,0,9,0,0,0,9,9,10,no,90,no,na,no,na
+404,b4,oats-cc mix,8/2/22,yes,2938.83,na,no,na,na,no,na,6/1/22,0.25^2,0,18,2,0,0,20,20,27,no,74.07407407,no,na,no,na
+102,b1,ryelage-sorghum sudangrass ,5/13/22,yes,4970.97,7/13/22,yes,6599.57,9/14/22,yes,5387.93,6/1/22,0.25^2,5,5,0,0,0,10,10,11,no,90.90909091,no,na,no,na
+206,b2,ryelage-sorghum sudangrass ,5/13/22,yes,3883.74,7/13/22,yes,6021.21,9/14/22,yes,3712.26,6/1/22,0.25^2,27,32,0,0,0,59,59,64,no,92.1875,no,na,no,na
+301,b3,ryelage-sorghum sudangrass ,5/13/22,yes,3345.74,7/13/22,yes,4605.57,9/14/22,yes,3198.91,6/1/22,0.25^2,13,14,0,0,0,27,27,43,no,62.79069767,no,na,no,na
+403,b4,ryelage-sorghum sudangrass ,5/13/22,yes,3120.45,7/13/22,yes,6360.83,9/14/22,yes,5133.49,6/1/22,0.25^2,5,11,0,0,0,16,16,19,no,84.21052632,no,na,no,na
+105,b1,alfalfa/oats ,8/2/22,yes,1432.43,9/14/22,yes,3701.05,na,no,na,6/1/22,0.25^2,0,9,4,1,0,14,14,15,no,93.33333333,no,na,no,na
+202,b2,alfalfa/oats ,8/2/22,yes,1883,9/14/22,yes,1587.12,na,no,na,6/1/22,0.25^2,2,6,5,0,0,13,13,15,no,86.66666667,no,na,no,na
+304,b3,alfalfa/oats ,8/2/22,yes,1943.53,9/14/22,yes,2662.02,na,no,na,6/1/22,0.25^2,0,6,0,0,0,6,6,9,no,66.66666667,no,na,no,na
+405,b4,alfalfa/oats ,8/2/22,yes,2138.55,9/14/22,yes,1348.38,na,no,na,6/1/22,0.25^2,3,11,0,0,0,14,14,29,no,48.27586207,no,na,no,na
+101,b1,alfalfa/orchardgrass,7/13/22,yes,2062.36,9/14/22,yes,3030.78,na,no,na,6/1/22,0.25^2,4,27,5,0,0,36,36,36,no,100,no,na,no,na
+204,b2,alfalfa/orchardgrass,7/13/22,yes,1950.28,9/14/22,yes,3063.28,na,no,na,6/1/22,0.25^2,0,18,3,1,0,22,22,27,no,81.48148148,no,na,no,na
+306,b3,alfalfa/orchardgrass,7/13/22,yes,3164.16,9/14/22,yes,2299.98,na,no,na,6/1/22,0.25^2,0,2,3,1,0,6,6,6,no,100,no,na,no,na
+402,b4,alfalfa/orchardgrass,7/13/22,yes,2330.25,9/14/22,yes,2249.55,na,no,na,6/1/22,0.25^2,0,13,0,0,0,13,13,15,no,86.66666667,no,na,no,na
+104,b1,wheat-cc mix,8/2/22,yes,914.6,na,no,na,na,no,na,6/9/22,0.25^2,34,4,0,0,0,38,65,,yes,87.83783784,no,na,count.1,na
+201,b2,wheat-cc mix,8/2/22,yes,107.6,na,no,na,na,no,na,6/9/22,0.25^2,0,0,0,0,0,0,3,,yes,100,no,na,count.1,na
+303,b3,wheat-cc mix,8/2/22,yes,2017.5,na,no,na,na,no,na,6/9/22,0.25^2,2,0,0,0,0,2,5,,yes,83.33333333,no,na,count.1,na
+406,b4,wheat-cc mix,8/2/22,yes,2945.55,na,no,na,na,no,na,6/9/22,0.25^2,0,0,0,0,0,0,2,,yes,100,no,na,count.1,na
+103,b1,wheat/clover,8/2/22,yes,511.1,9/14/22,yes,5131.25,na,no,na,6/9/22,0.25^2,0,0,0,0,0,0,3,,yes,75,no,na,count.1,na
+203,b2,wheat/clover,8/2/22,yes,255.55,9/14/22,yes,4392.61,na,no,na,6/9/22,0.25^2,1,12,0,0,0,13,13,,yes,100,no,na,count.1,na
+305,b3,wheat/clover,8/2/22,yes,1708.15,9/14/22,yes,3491.45,na,no,na,6/9/22,0.25^2,0,5,2,2,0,9,10,,yes,100,no,na,count.1,na
+401,b4,wheat/clover,8/2/22,yes,289.18,9/14/22,yes,3177.61,na,no,na,6/9/22,0.25^2,0,6,0,0,0,6,3,,yes,100,no,na,count.1,na
+106,b1,oats-cc mix,8/2/22,yes,2468.08,na,no,na,na,no,na,6/9/22,0.25^2,1,2,0,0,0,3,3,,yes,30,no,na,count.1,na
+205,b2,oats-cc mix,8/2/22,yes,2400.83,na,no,na,na,no,na,6/9/22,0.25^2,0,1,2,0,0,3,2,,yes,100,no,na,count.1,na
+302,b3,oats-cc mix,8/2/22,yes,2864.85,na,no,na,na,no,na,6/9/22,0.25^2,0,12,0,0,0,12,9,,yes,90,no,na,count.1,na
+404,b4,oats-cc mix,8/2/22,yes,2938.83,na,no,na,na,no,na,6/9/22,0.25^2,0,18,0,0,0,18,20,,yes,74.07407407,no,na,count.1,na
+102,b1,ryelage-sorghum sudangrass ,5/13/22,yes,4970.97,7/13/22,yes,6599.57,9/14/22,yes,5387.93,6/9/22,0.25^2,0,17,0,0,0,17,10,,yes,90.90909091,no,na,count.1,na
+206,b2,ryelage-sorghum sudangrass ,5/13/22,yes,3883.74,7/13/22,yes,6021.21,9/14/22,yes,3712.26,6/9/22,0.25^2,3,97,1,0,0,101,62,,yes,96.875,no,na,count.1,na
+301,b3,ryelage-sorghum sudangrass ,5/13/22,yes,3345.74,7/13/22,yes,4605.57,9/14/22,yes,3198.91,6/9/22,0.25^2,12,52,0,0,0,64,39,,yes,90.69767442,no,na,count.1,na
+403,b4,ryelage-sorghum sudangrass ,5/13/22,yes,3120.45,7/13/22,yes,6360.83,9/14/22,yes,5133.49,6/9/22,0.25^2,2,71,0,0,0,73,18,,yes,94.73684211,no,na,count.1,na
+105,b1,alfalfa/oats ,8/2/22,yes,1432.43,9/14/22,yes,3701.05,na,no,na,6/9/22,0.25^2,0,6,3,1,0,10,14,,yes,93.33333333,no,na,count.1,na
+202,b2,alfalfa/oats ,8/2/22,yes,1883,9/14/22,yes,1587.12,na,no,na,6/9/22,0.25^2,0,9,3,0,0,12,13,,yes,86.66666667,no,na,count.1,na
+304,b3,alfalfa/oats ,8/2/22,yes,1943.53,9/14/22,yes,2662.02,na,no,na,6/9/22,0.25^2,0,8,0,0,0,8,6,,yes,66.66666667,no,na,count.1,na
+405,b4,alfalfa/oats ,8/2/22,yes,2138.55,9/14/22,yes,1348.38,na,no,na,6/9/22,0.25^2,11,27,0,0,0,38,25,,yes,86.20689655,no,na,count.1,na
+101,b1,alfalfa/orchardgrass,7/13/22,yes,2062.36,9/14/22,yes,3030.78,na,no,na,6/9/22,0.25^2,0,28,8,0,0,36,36,,yes,100,no,na,count.1,na
+204,b2,alfalfa/orchardgrass,7/13/22,yes,1950.28,9/14/22,yes,3063.28,na,no,na,6/9/22,0.25^2,0,13,8,1,0,22,22,,yes,81.48148148,no,na,count.1,na
+306,b3,alfalfa/orchardgrass,7/13/22,yes,3164.16,9/14/22,yes,2299.98,na,no,na,6/9/22,0.25^2,0,10,5,3,0,18,6,,yes,100,no,na,count.1,na
+402,b4,alfalfa/orchardgrass,7/13/22,yes,2330.25,9/14/22,yes,2249.55,na,no,na,6/9/22,0.25^2,2,10,4,1,0,17,15,,yes,100,no,na,count.1,na
+104,b1,wheat-cc mix,8/2/22,yes,914.6,na,no,na,na,no,na,6/17/22,0.25^2,1,2,0,0,0,3,66,,no,89.18918919,no,na,no,na
+201,b2,wheat-cc mix,8/2/22,yes,107.6,na,no,na,na,no,na,6/17/22,0.25^2,0,0,0,0,0,0,3,,no,100,no,na,no,na
+303,b3,wheat-cc mix,8/2/22,yes,2017.5,na,no,na,na,no,na,6/17/22,0.25^2,0,0,0,0,0,0,5,,no,83.33333333,no,na,no,na
+406,b4,wheat-cc mix,8/2/22,yes,2945.55,na,no,na,na,no,na,6/17/22,0.25^2,0,0,0,0,0,0,2,,no,100,no,na,no,na
+103,b1,wheat/clover,8/2/22,yes,511.1,9/14/22,yes,5131.25,na,no,na,6/17/22,0.25^2,1,0,0,0,0,1,4,,no,100,no,na,no,na
+203,b2,wheat/clover,8/2/22,yes,255.55,9/14/22,yes,4392.61,na,no,na,6/17/22,0.25^2,0,3,0,1,0,4,13,,no,100,no,na,no,na
+305,b3,wheat/clover,8/2/22,yes,1708.15,9/14/22,yes,3491.45,na,no,na,6/17/22,0.25^2,0,3,0,4,0,7,10,,no,100,no,na,no,na
+401,b4,wheat/clover,8/2/22,yes,289.18,9/14/22,yes,3177.61,na,no,na,6/17/22,0.25^2,0,12,0,0,0,12,3,,no,100,no,na,no,na
+106,b1,oats-cc mix,8/2/22,yes,2468.08,na,no,na,na,no,na,6/17/22,0.25^2,0,1,0,0,0,1,3,,no,30,no,na,no,na
+205,b2,oats-cc mix,8/2/22,yes,2400.83,na,no,na,na,no,na,6/17/22,0.25^2,0,1,0,0,0,1,2,,no,100,no,na,no,na
+302,b3,oats-cc mix,8/2/22,yes,2864.85,na,no,na,na,no,na,6/17/22,0.25^2,0,10,0,0,0,10,9,,no,90,no,na,no,na
+404,b4,oats-cc mix,8/2/22,yes,2938.83,na,no,na,na,no,na,6/17/22,0.25^2,5,17,0,0,0,22,25,,no,92.59259259,no,na,no,na
+102,b1,ryelage-sorghum sudangrass ,5/13/22,yes,4970.97,7/13/22,yes,6599.57,9/14/22,yes,5387.93,6/17/22,0.25^2,1,6,8,0,0,15,11,,no,100,no,na,no,na
+206,b2,ryelage-sorghum sudangrass ,5/13/22,yes,3883.74,7/13/22,yes,6021.21,9/14/22,yes,3712.26,6/17/22,0.25^2,0,61,7,0,0,68,62,,no,96.875,no,na,no,na
+301,b3,ryelage-sorghum sudangrass ,5/13/22,yes,3345.74,7/13/22,yes,4605.57,9/14/22,yes,3198.91,6/17/22,0.25^2,2,46,0,0,0,48,41,,no,95.34883721,no,na,no,na
+403,b4,ryelage-sorghum sudangrass ,5/13/22,yes,3120.45,7/13/22,yes,6360.83,9/14/22,yes,5133.49,6/17/22,0.25^2,0,12,9,0,0,21,18,,no,94.73684211,no,na,no,na
+105,b1,alfalfa/oats ,8/2/22,yes,1432.43,9/14/22,yes,3701.05,na,no,na,6/17/22,0.25^2,1,7,1,0,0,9,15,,no,100,no,na,no,na
+202,b2,alfalfa/oats ,8/2/22,yes,1883,9/14/22,yes,1587.12,na,no,na,6/17/22,0.25^2,0,2,1,1,0,4,13,,no,86.66666667,no,na,no,na
+304,b3,alfalfa/oats ,8/2/22,yes,1943.53,9/14/22,yes,2662.02,na,no,na,6/17/22,0.25^2,1,9,1,0,0,11,7,,no,77.77777778,no,na,no,na
+405,b4,alfalfa/oats ,8/2/22,yes,2138.55,9/14/22,yes,1348.38,na,no,na,6/17/22,0.25^2,2,16,0,0,0,18,27,,no,93.10344828,no,na,no,na
+101,b1,alfalfa/orchardgrass,7/13/22,yes,2062.36,9/14/22,yes,3030.78,na,no,na,6/17/22,0.25^2,0,8,1,1,0,10,36,,no,100,no,na,no,na
+204,b2,alfalfa/orchardgrass,7/13/22,yes,1950.28,9/14/22,yes,3063.28,na,no,na,6/17/22,0.25^2,5,16,9,4,0,34,27,,no,100,no,na,no,na
+306,b3,alfalfa/orchardgrass,7/13/22,yes,3164.16,9/14/22,yes,2299.98,na,no,na,6/17/22,0.25^2,0,6,2,5,0,13,6,,no,100,no,na,no,na
+402,b4,alfalfa/orchardgrass,7/13/22,yes,2330.25,9/14/22,yes,2249.55,na,no,na,6/17/22,0.25^2,0,3,5,5,0,13,15,,no,100,no,na,no,na
+104,b1,wheat-cc mix,8/2/22,yes,914.6,na,no,na,na,no,na,6/23/22,0.25^2,2,0,0,0,0,2,68,,yes,91.89189189,no,na,count.2,na
+201,b2,wheat-cc mix,8/2/22,yes,107.6,na,no,na,na,no,na,6/23/22,0.25^2,0,0,0,0,0,0,3,,yes,100,no,na,count.2,na
+303,b3,wheat-cc mix,8/2/22,yes,2017.5,na,no,na,na,no,na,6/23/22,0.25^2,0,0,0,0,0,0,5,,yes,83.33333333,no,na,count.2,na
+406,b4,wheat-cc mix,8/2/22,yes,2945.55,na,no,na,na,no,na,6/23/22,0.25^2,0,0,0,0,0,0,2,,yes,100,no,na,count.2,na
+103,b1,wheat/clover,8/2/22,yes,511.1,9/14/22,yes,5131.25,na,no,na,6/23/22,0.25^2,0,0,0,0,0,0,4,,yes,100,no,na,count.2,na
+203,b2,wheat/clover,8/2/22,yes,255.55,9/14/22,yes,4392.61,na,no,na,6/23/22,0.25^2,0,0,0,0,0,0,13,,yes,100,no,na,count.2,na
+305,b3,wheat/clover,8/2/22,yes,1708.15,9/14/22,yes,3491.45,na,no,na,6/23/22,0.25^2,0,3,0,3,1,7,10,,yes,100,no,na,count.2,na
+401,b4,wheat/clover,8/2/22,yes,289.18,9/14/22,yes,3177.61,na,no,na,6/23/22,0.25^2,0,8,2,0,0,10,3,,yes,100,no,na,count.2,na
+106,b1,oats-cc mix,8/2/22,yes,2468.08,na,no,na,na,no,na,6/23/22,0.25^2,3,0,0,0,0,3,6,,yes,60,no,na,count.2,na
+205,b2,oats-cc mix,8/2/22,yes,2400.83,na,no,na,na,no,na,6/23/22,0.25^2,0,2,0,0,0,2,2,,yes,100,no,na,count.2,na
+302,b3,oats-cc mix,8/2/22,yes,2864.85,na,no,na,na,no,na,6/23/22,0.25^2,0,5,0,0,0,5,9,,yes,90,no,na,count.2,na
+404,b4,oats-cc mix,8/2/22,yes,2938.83,na,no,na,na,no,na,6/23/22,0.25^2,0,19,0,0,0,19,25,,yes,92.59259259,no,na,count.2,na
+102,b1,ryelage-sorghum sudangrass ,5/13/22,yes,4970.97,7/13/22,yes,6599.57,9/14/22,yes,5387.93,6/23/22,0.25^2,0,6,16,2,0,24,11,,yes,100,no,na,count.2,na
+206,b2,ryelage-sorghum sudangrass ,5/13/22,yes,3883.74,7/13/22,yes,6021.21,9/14/22,yes,3712.26,6/23/22,0.25^2,0,10,47,7,0,64,62,,yes,96.875,no,na,count.2,na
+301,b3,ryelage-sorghum sudangrass ,5/13/22,yes,3345.74,7/13/22,yes,4605.57,9/14/22,yes,3198.91,6/23/22,0.25^2,1,48,0,0,0,49,42,,yes,97.6744186,no,na,count.2,na
+403,b4,ryelage-sorghum sudangrass ,5/13/22,yes,3120.45,7/13/22,yes,6360.83,9/14/22,yes,5133.49,6/23/22,0.25^2,1,3,0,4,0,8,19,,yes,100,no,na,count.2,na
+105,b1,alfalfa/oats ,8/2/22,yes,1432.43,9/14/22,yes,3701.05,na,no,na,6/23/22,0.25^2,0,2,6,3,0,11,15,,yes,100,no,na,count.2,na
+202,b2,alfalfa/oats ,8/2/22,yes,1883,9/14/22,yes,1587.12,na,no,na,6/23/22,0.25^2,0,4,2,3,0,9,13,,yes,86.66666667,no,na,count.2,na
+304,b3,alfalfa/oats ,8/2/22,yes,1943.53,9/14/22,yes,2662.02,na,no,na,6/23/22,0.25^2,0,7,2,0,0,9,7,,yes,77.77777778,no,na,count.2,na
+405,b4,alfalfa/oats ,8/2/22,yes,2138.55,9/14/22,yes,1348.38,na,no,na,6/23/22,0.25^2,2,15,3,0,0,20,29,,yes,100,no,na,count.2,na
+101,b1,alfalfa/orchardgrass,7/13/22,yes,2062.36,9/14/22,yes,3030.78,na,no,na,6/23/22,0.25^2,0,5,0,1,0,6,36,,yes,100,no,na,count.2,na
+204,b2,alfalfa/orchardgrass,7/13/22,yes,1950.28,9/14/22,yes,3063.28,na,no,na,6/23/22,0.25^2,0,6,0,8,2,16,27,,yes,100,no,na,count.2,na
+306,b3,alfalfa/orchardgrass,7/13/22,yes,3164.16,9/14/22,yes,2299.98,na,no,na,6/23/22,0.25^2,0,6,3,2,4,15,6,,yes,100,no,na,count.2,na
+402,b4,alfalfa/orchardgrass,7/13/22,yes,2330.25,9/14/22,yes,2249.55,na,no,na,6/23/22,0.25^2,0,7,5,1,1,14,15,,yes,100,no,na,count.2,na
+104,b1,wheat-cc mix,8/2/22,yes,914.6,na,no,na,na,no,na,6/30/22,0.25^2,0,0,0,0,0,0,68,,no,91.89189189,no,na,no,na
+201,b2,wheat-cc mix,8/2/22,yes,107.6,na,no,na,na,no,na,6/30/22,0.25^2,0,0,0,0,0,0,3,,no,100,no,na,no,na
+303,b3,wheat-cc mix,8/2/22,yes,2017.5,na,no,na,na,no,na,6/30/22,0.25^2,0,0,0,0,0,0,5,,no,83.33333333,no,na,no,na
+406,b4,wheat-cc mix,8/2/22,yes,2945.55,na,no,na,na,no,na,6/30/22,0.25^2,0,0,0,0,0,0,2,,no,100,no,na,no,na
+103,b1,wheat/clover,8/2/22,yes,511.1,9/14/22,yes,5131.25,na,no,na,6/30/22,0.25^2,0,0,0,0,0,0,4,,no,100,no,na,no,na
+203,b2,wheat/clover,8/2/22,yes,255.55,9/14/22,yes,4392.61,na,no,na,6/30/22,0.25^2,0,0,0,1,0,1,13,,no,100,no,na,no,na
+305,b3,wheat/clover,8/2/22,yes,1708.15,9/14/22,yes,3491.45,na,no,na,6/30/22,0.25^2,0,0,1,2,2,5,10,,no,100,no,na,no,na
+401,b4,wheat/clover,8/2/22,yes,289.18,9/14/22,yes,3177.61,na,no,na,6/30/22,0.25^2,0,6,3,0,0,9,3,,no,100,no,na,no,na
+106,b1,oats-cc mix,8/2/22,yes,2468.08,na,no,na,na,no,na,6/30/22,0.25^2,1,0,0,0,0,1,7,,no,70,no,na,no,na
+205,b2,oats-cc mix,8/2/22,yes,2400.83,na,no,na,na,no,na,6/30/22,0.25^2,0,0,1,0,0,1,2,,no,100,no,na,no,na
+302,b3,oats-cc mix,8/2/22,yes,2864.85,na,no,na,na,no,na,6/30/22,0.25^2,0,2,0,0,0,2,9,,no,90,no,na,no,na
+404,b4,oats-cc mix,8/2/22,yes,2938.83,na,no,na,na,no,na,6/30/22,0.25^2,0,3,0,1,0,4,25,,no,92.59259259,no,na,no,na
+102,b1,ryelage-sorghum sudangrass ,5/13/22,yes,4970.97,7/13/22,yes,6599.57,9/14/22,yes,5387.93,6/30/22,0.25^2,0,10,1,0,0,11,11,,no,100,no,na,no,na
+206,b2,ryelage-sorghum sudangrass ,5/13/22,yes,3883.74,7/13/22,yes,6021.21,9/14/22,yes,3712.26,6/30/22,0.25^2,0,5,18,2,0,25,62,,no,96.875,no,na,no,na
+301,b3,ryelage-sorghum sudangrass ,5/13/22,yes,3345.74,7/13/22,yes,4605.57,9/14/22,yes,3198.91,6/30/22,0.25^2,1,46,0,0,0,47,43,,no,100,no,na,no,na
+403,b4,ryelage-sorghum sudangrass ,5/13/22,yes,3120.45,7/13/22,yes,6360.83,9/14/22,yes,5133.49,6/30/22,0.25^2,0,18,4,0,0,22,19,,no,100,no,na,no,na
+105,b1,alfalfa/oats ,8/2/22,yes,1432.43,9/14/22,yes,3701.05,na,no,na,6/30/22,0.25^2,0,2,2,0,0,4,15,,no,100,no,na,no,na
+202,b2,alfalfa/oats ,8/2/22,yes,1883,9/14/22,yes,1587.12,na,no,na,6/30/22,0.25^2,0,3,1,2,0,6,13,,no,86.66666667,no,na,no,na
+304,b3,alfalfa/oats ,8/2/22,yes,1943.53,9/14/22,yes,2662.02,na,no,na,6/30/22,0.25^2,0,4,2,0,0,6,7,,no,77.77777778,no,na,no,na
+405,b4,alfalfa/oats ,8/2/22,yes,2138.55,9/14/22,yes,1348.38,na,no,na,6/30/22,0.25^2,0,7,2,0,0,9,29,,no,100,no,na,no,na
+101,b1,alfalfa/orchardgrass,7/13/22,yes,2062.36,9/14/22,yes,3030.78,na,no,na,6/30/22,0.25^2,0,4,0,2,0,6,36,,no,100,no,na,no,na
+204,b2,alfalfa/orchardgrass,7/13/22,yes,1950.28,9/14/22,yes,3063.28,na,no,na,6/30/22,0.25^2,0,0,4,7,4,15,27,,no,100,no,na,no,na
+306,b3,alfalfa/orchardgrass,7/13/22,yes,3164.16,9/14/22,yes,2299.98,na,no,na,6/30/22,0.25^2,0,2,4,6,6,18,6,,no,100,no,na,no,na
+402,b4,alfalfa/orchardgrass,7/13/22,yes,2330.25,9/14/22,yes,2249.55,na,no,na,6/30/22,0.25^2,0,4,0,6,2,12,15,,no,100,no,na,no,na
+104,b1,wheat-cc mix,8/2/22,yes,914.6,na,no,na,na,no,na,7/8/22,0.25^2,0,2,1,0,0,3,68,,yes,91.89189189,no,na,count.3,na
+201,b2,wheat-cc mix,8/2/22,yes,107.6,na,no,na,na,no,na,7/8/22,0.25^2,0,0,0,0,0,0,3,,yes,100,no,na,count.3,na
+303,b3,wheat-cc mix,8/2/22,yes,2017.5,na,no,na,na,no,na,7/8/22,0.25^2,1,1,0,0,0,2,6,,yes,100,no,na,count.3,na
+406,b4,wheat-cc mix,8/2/22,yes,2945.55,na,no,na,na,no,na,7/8/22,0.25^2,0,0,0,0,0,0,2,,yes,100,no,na,count.3,na
+103,b1,wheat/clover,8/2/22,yes,511.1,9/14/22,yes,5131.25,na,no,na,7/8/22,0.25^2,0,0,0,0,0,0,4,,yes,100,no,na,count.3,na
+203,b2,wheat/clover,8/2/22,yes,255.55,9/14/22,yes,4392.61,na,no,na,7/8/22,0.25^2,0,0,0,0,0,0,13,,yes,100,no,na,count.3,na
+305,b3,wheat/clover,8/2/22,yes,1708.15,9/14/22,yes,3491.45,na,no,na,7/8/22,0.25^2,0,0,0,4,1,5,10,,yes,100,no,na,count.3,na
+401,b4,wheat/clover,8/2/22,yes,289.18,9/14/22,yes,3177.61,na,no,na,7/8/22,0.25^2,0,6,3,0,0,9,3,,yes,100,no,na,count.3,na
+106,b1,oats-cc mix,8/2/22,yes,2468.08,na,no,na,na,no,na,7/8/22,0.25^2,1,0,0,0,0,1,8,,yes,80,no,na,count.3,na
+205,b2,oats-cc mix,8/2/22,yes,2400.83,na,no,na,na,no,na,7/8/22,0.25^2,0,1,1,0,0,2,2,,yes,100,no,na,count.3,na
+302,b3,oats-cc mix,8/2/22,yes,2864.85,na,no,na,na,no,na,7/8/22,0.25^2,0,1,0,0,0,1,9,,yes,90,no,na,count.3,na
+404,b4,oats-cc mix,8/2/22,yes,2938.83,na,no,na,na,no,na,7/8/22,0.25^2,2,6,0,0,0,8,27,,yes,100,no,na,count.3,na
+102,b1,ryelage-sorghum sudangrass ,5/13/22,yes,4970.97,7/13/22,yes,6599.57,9/14/22,yes,5387.93,7/8/22,0.25^2,0,2,6,0,0,8,11,,yes,100,no,na,count.3,na
+206,b2,ryelage-sorghum sudangrass ,5/13/22,yes,3883.74,7/13/22,yes,6021.21,9/14/22,yes,3712.26,7/8/22,0.25^2,0,1,3,0,0,4,62,,yes,96.875,no,na,count.3,na
+301,b3,ryelage-sorghum sudangrass ,5/13/22,yes,3345.74,7/13/22,yes,4605.57,9/14/22,yes,3198.91,7/8/22,0.25^2,0,46,6,0,0,52,43,,yes,100,no,na,count.3,na
+403,b4,ryelage-sorghum sudangrass ,5/13/22,yes,3120.45,7/13/22,yes,6360.83,9/14/22,yes,5133.49,7/8/22,0.25^2,0,2,0,4,0,6,19,,yes,100,no,na,count.3,na
+105,b1,alfalfa/oats ,8/2/22,yes,1432.43,9/14/22,yes,3701.05,na,no,na,7/8/22,0.25^2,0,2,4,0,0,6,15,,yes,100,no,na,count.3,na
+202,b2,alfalfa/oats ,8/2/22,yes,1883,9/14/22,yes,1587.12,na,no,na,7/8/22,0.25^2,2,3,1,0,0,6,15,,yes,100,no,na,count.3,na
+304,b3,alfalfa/oats ,8/2/22,yes,1943.53,9/14/22,yes,2662.02,na,no,na,7/8/22,0.25^2,0,4,0,0,0,4,7,,yes,77.77777778,no,na,count.3,na
+405,b4,alfalfa/oats ,8/2/22,yes,2138.55,9/14/22,yes,1348.38,na,no,na,7/8/22,0.25^2,0,12,0,0,0,12,29,,yes,100,no,na,count.3,na
+101,b1,alfalfa/orchardgrass,7/13/22,yes,2062.36,9/14/22,yes,3030.78,na,no,na,7/8/22,0.25^2,0,1,4,0,1,6,36,,yes,100,no,na,count.3,na
+204,b2,alfalfa/orchardgrass,7/13/22,yes,1950.28,9/14/22,yes,3063.28,na,no,na,7/8/22,0.25^2,0,0,5,9,2,16,27,,yes,100,no,na,count.3,na
+306,b3,alfalfa/orchardgrass,7/13/22,yes,3164.16,9/14/22,yes,2299.98,na,no,na,7/8/22,0.25^2,0,2,5,1,5,13,6,,yes,100,no,na,count.3,na
+402,b4,alfalfa/orchardgrass,7/13/22,yes,2330.25,9/14/22,yes,2249.55,na,no,na,7/8/22,0.25^2,0,3,0,4,3,10,15,,yes,100,no,na,count.3,na
+104,b1,wheat-cc mix,8/2/22,yes,914.6,na,no,na,na,no,na,7/11/22,0.25^2,1,3,0,0,0,4,69,,no,93.24324324,no,na,no,na
+201,b2,wheat-cc mix,8/2/22,yes,107.6,na,no,na,na,no,na,7/11/22,0.25^2,0,0,0,1,0,1,3,,no,100,no,na,no,na
+303,b3,wheat-cc mix,8/2/22,yes,2017.5,na,no,na,na,no,na,7/11/22,0.25^2,0,3,0,0,0,3,6,,no,100,no,na,no,na
+406,b4,wheat-cc mix,8/2/22,yes,2945.55,na,no,na,na,no,na,7/11/22,0.25^2,0,0,0,0,0,0,2,,no,100,no,na,no,na
+103,b1,wheat/clover,8/2/22,yes,511.1,9/14/22,yes,5131.25,na,no,na,7/11/22,0.25^2,0,0,0,0,0,0,4,,no,100,no,na,no,na
+203,b2,wheat/clover,8/2/22,yes,255.55,9/14/22,yes,4392.61,na,no,na,7/11/22,0.25^2,0,0,4,0,0,4,13,,no,100,no,na,no,na
+305,b3,wheat/clover,8/2/22,yes,1708.15,9/14/22,yes,3491.45,na,no,na,7/11/22,0.25^2,0,0,2,3,2,7,10,,no,100,no,na,no,na
+401,b4,wheat/clover,8/2/22,yes,289.18,9/14/22,yes,3177.61,na,no,na,7/11/22,0.25^2,0,6,2,1,0,9,3,,no,100,no,na,no,na
+106,b1,oats-cc mix,8/2/22,yes,2468.08,na,no,na,na,no,na,7/11/22,0.25^2,0,1,0,0,0,1,8,,no,80,no,na,no,na
+205,b2,oats-cc mix,8/2/22,yes,2400.83,na,no,na,na,no,na,7/11/22,0.25^2,0,2,0,0,0,2,2,,no,100,no,na,no,na
+302,b3,oats-cc mix,8/2/22,yes,2864.85,na,no,na,na,no,na,7/11/22,0.25^2,1,3,0,0,0,4,10,,no,100,no,na,no,na
+404,b4,oats-cc mix,8/2/22,yes,2938.83,na,no,na,na,no,na,7/11/22,0.25^2,0,15,2,0,0,17,27,,no,100,no,na,no,na
+102,b1,ryelage-sorghum sudangrass ,5/13/22,yes,4970.97,7/13/22,yes,6599.57,9/14/22,yes,5387.93,7/11/22,0.25^2,0,4,0,0,0,4,11,,no,100,no,na,no,na
+206,b2,ryelage-sorghum sudangrass ,5/13/22,yes,3883.74,7/13/22,yes,6021.21,9/14/22,yes,3712.26,7/11/22,0.25^2,2,0,0,0,0,2,64,,no,100,no,na,no,na
+301,b3,ryelage-sorghum sudangrass ,5/13/22,yes,3345.74,7/13/22,yes,4605.57,9/14/22,yes,3198.91,7/11/22,0.25^2,0,41,8,3,0,52,43,,no,100,no,na,no,na
+403,b4,ryelage-sorghum sudangrass ,5/13/22,yes,3120.45,7/13/22,yes,6360.83,9/14/22,yes,5133.49,7/11/22,0.25^2,0,0,0,0,0,0,19,,no,100,no,na,no,na
+105,b1,alfalfa/oats ,8/2/22,yes,1432.43,9/14/22,yes,3701.05,na,no,na,7/11/22,0.25^2,0,2,6,1,0,9,15,,no,100,no,na,no,na
+202,b2,alfalfa/oats ,8/2/22,yes,1883,9/14/22,yes,1587.12,na,no,na,7/11/22,0.25^2,0,1,4,0,0,5,15,,no,100,no,na,no,na
+304,b3,alfalfa/oats ,8/2/22,yes,1943.53,9/14/22,yes,2662.02,na,no,na,7/11/22,0.25^2,2,8,0,0,0,10,9,,no,100,no,na,no,na
+405,b4,alfalfa/oats ,8/2/22,yes,2138.55,9/14/22,yes,1348.38,na,no,na,7/11/22,0.25^2,0,12,0,0,0,12,29,,no,100,no,na,no,na
+101,b1,alfalfa/orchardgrass,7/13/22,yes,2062.36,9/14/22,yes,3030.78,na,no,na,7/11/22,0.25^2,0,0,6,1,0,7,36,,no,100,no,na,no,na
+204,b2,alfalfa/orchardgrass,7/13/22,yes,1950.28,9/14/22,yes,3063.28,na,no,na,7/11/22,0.25^2,0,6,5,8,4,23,27,,no,100,no,na,no,na
+306,b3,alfalfa/orchardgrass,7/13/22,yes,3164.16,9/14/22,yes,2299.98,na,no,na,7/11/22,0.25^2,0,0,4,2,5,11,6,,no,100,no,na,no,na
+402,b4,alfalfa/orchardgrass,7/13/22,yes,2330.25,9/14/22,yes,2249.55,na,no,na,7/11/22,0.25^2,0,0,2,6,5,13,15,,no,100,no,na,no,na
+104,b1,wheat-cc mix,8/2/22,yes,914.6,na,no,na,na,no,na,8/9/22,0.25^2,0,0,2,2,0,4,69,,no,93.24324324,no,na,no,na
+201,b2,wheat-cc mix,8/2/22,yes,107.6,na,no,na,na,no,na,8/9/22,0.25^2,0,0,0,0,0,0,3,,no,100,no,na,no,na
+303,b3,wheat-cc mix,8/2/22,yes,2017.5,na,no,na,na,no,na,8/9/22,0.25^2,0,1,1,0,0,2,6,,no,100,no,na,no,na
+406,b4,wheat-cc mix,8/2/22,yes,2945.55,na,no,na,na,no,na,8/9/22,0.25^2,0,1,0,0,0,1,2,,no,100,no,na,no,na
+103,b1,wheat/clover,8/2/22,yes,511.1,9/14/22,yes,5131.25,na,no,na,8/9/22,0.25^2,0,0,0,0,0,0,4,,no,100,no,na,no,na
+203,b2,wheat/clover,8/2/22,yes,255.55,9/14/22,yes,4392.61,na,no,na,8/9/22,0.25^2,0,0,0,0,0,0,13,,no,100,no,na,no,na
+305,b3,wheat/clover,8/2/22,yes,1708.15,9/14/22,yes,3491.45,na,no,na,8/9/22,0.25^2,0,0,4,1,5,10,10,,no,100,no,na,no,na
+401,b4,wheat/clover,8/2/22,yes,289.18,9/14/22,yes,3177.61,na,no,na,8/9/22,0.25^2,0,0,0,0,0,0,3,,no,100,no,na,no,na
+106,b1,oats-cc mix,8/2/22,yes,2468.08,na,no,na,na,no,na,8/9/22,0.25^2,0,0,0,0,0,0,8,,no,80,no,na,no,na
+205,b2,oats-cc mix,8/2/22,yes,2400.83,na,no,na,na,no,na,8/9/22,0.25^2,0,3,3,0,0,6,2,,no,100,no,na,no,na
+302,b3,oats-cc mix,8/2/22,yes,2864.85,na,no,na,na,no,na,8/9/22,0.25^2,0,7,4,0,0,11,10,,no,100,no,na,no,na
+404,b4,oats-cc mix,8/2/22,yes,2938.83,na,no,na,na,no,na,8/9/22,0.25^2,0,3,6,2,0,11,27,,no,100,no,na,no,na
+102,b1,ryelage-sorghum sudangrass ,5/13/22,yes,4970.97,7/13/22,yes,6599.57,9/14/22,yes,5387.93,8/9/22,0.25^2,0,2,10,2,0,14,11,,no,100,no,na,no,na
+206,b2,ryelage-sorghum sudangrass ,5/13/22,yes,3883.74,7/13/22,yes,6021.21,9/14/22,yes,3712.26,8/9/22,0.25^2,0,1,31,0,0,32,64,,no,100,no,na,no,na
+301,b3,ryelage-sorghum sudangrass ,5/13/22,yes,3345.74,7/13/22,yes,4605.57,9/14/22,yes,3198.91,8/9/22,0.25^2,0,1,25,4,0,30,43,,no,100,no,na,no,na
+403,b4,ryelage-sorghum sudangrass ,5/13/22,yes,3120.45,7/13/22,yes,6360.83,9/14/22,yes,5133.49,8/9/22,0.25^2,0,2,24,3,0,29,19,,no,100,no,na,no,na
+105,b1,alfalfa/oats ,8/2/22,yes,1432.43,9/14/22,yes,3701.05,na,no,na,8/9/22,0.25^2,0,2,2,2,0,6,15,,no,100,no,na,no,na
+202,b2,alfalfa/oats ,8/2/22,yes,1883,9/14/22,yes,1587.12,na,no,na,8/9/22,0.25^2,0,1,5,5,2,13,15,,no,100,no,na,no,na
+304,b3,alfalfa/oats ,8/2/22,yes,1943.53,9/14/22,yes,2662.02,na,no,na,8/9/22,0.25^2,0,2,4,2,0,8,9,,no,100,no,na,no,na
+405,b4,alfalfa/oats ,8/2/22,yes,2138.55,9/14/22,yes,1348.38,na,no,na,8/9/22,0.25^2,0,1,18,4,0,23,29,,no,100,no,na,no,na
+101,b1,alfalfa/orchardgrass,7/13/22,yes,2062.36,9/14/22,yes,3030.78,na,no,na,8/9/22,0.25^2,0,14,15,0,0,29,36,,no,100,no,na,no,na
+204,b2,alfalfa/orchardgrass,7/13/22,yes,1950.28,9/14/22,yes,3063.28,na,no,na,8/9/22,0.25^2,0,11,10,0,0,21,27,,no,100,no,na,no,na
+306,b3,alfalfa/orchardgrass,7/13/22,yes,3164.16,9/14/22,yes,2299.98,na,no,na,8/9/22,0.25^2,0,0,15,1,0,16,6,,no,100,no,na,no,na
+402,b4,alfalfa/orchardgrass,7/13/22,yes,2330.25,9/14/22,yes,2249.55,na,no,na,8/9/22,0.25^2,0,0,5,0,0,5,15,,no,100,no,na,no,na
+104,b1,wheat-cc mix,8/2/22,yes,914.6,na,no,na,na,no,na,9/8/22,0.25^2,5,0,0,0,0,5,74,,yes,100,yes,0,count.4,10
+201,b2,wheat-cc mix,8/2/22,yes,107.6,na,no,na,na,no,na,9/8/22,0.25^2,0,0,0,3,0,3,3,,yes,100,yes,3,count.4,3
+303,b3,wheat-cc mix,8/2/22,yes,2017.5,na,no,na,na,no,na,9/8/22,0.25^2,0,0,0,0,0,0,6,,yes,100,yes,0,count.4,21
+406,b4,wheat-cc mix,8/2/22,yes,2945.55,na,no,na,na,no,na,9/8/22,0.25^2,0,0,0,0,0,0,2,,yes,100,yes,0,count.4,22
+103,b1,wheat/clover,8/2/22,yes,511.1,9/14/22,yes,5131.25,na,no,na,9/8/22,0.25^2,0,0,0,0,0,0,4,,yes,100,yes,0,count.4,11
+203,b2,wheat/clover,8/2/22,yes,255.55,9/14/22,yes,4392.61,na,no,na,9/8/22,0.25^2,0,0,0,0,0,0,13,,yes,100,yes,0,count.4,6
+305,b3,wheat/clover,8/2/22,yes,1708.15,9/14/22,yes,3491.45,na,no,na,9/8/22,0.25^2,0,0,0,0,0,0,10,,yes,100,yes,0,count.4,8
+401,b4,wheat/clover,8/2/22,yes,289.18,9/14/22,yes,3177.61,na,no,na,9/8/22,0.25^2,0,0,0,0,0,0,3,,yes,100,yes,0,count.4,5
+106,b1,oats-cc mix,8/2/22,yes,2468.08,na,no,na,na,no,na,9/8/22,0.25^2,2,0,0,0,0,2,10,,yes,100,yes,0,count.4,9
+205,b2,oats-cc mix,8/2/22,yes,2400.83,na,no,na,na,no,na,9/8/22,0.25^2,0,0,0,0,0,0,2,,yes,100,yes,0,count.4,32
+302,b3,oats-cc mix,8/2/22,yes,2864.85,na,no,na,na,no,na,9/8/22,0.25^2,0,0,0,0,0,0,10,,yes,100,yes,0,count.4,27
+404,b4,oats-cc mix,8/2/22,yes,2938.83,na,no,na,na,no,na,9/8/22,0.25^2,0,0,12,4,0,16,27,,yes,100,yes,0,count.4,39
+102,b1,ryelage-sorghum sudangrass ,5/13/22,yes,4970.97,7/13/22,yes,6599.57,9/14/22,yes,5387.93,9/8/22,0.25^2,0,0,4,4,0,8,11,,yes,100,yes,4,count.4,5
+206,b2,ryelage-sorghum sudangrass ,5/13/22,yes,3883.74,7/13/22,yes,6021.21,9/14/22,yes,3712.26,9/8/22,0.25^2,0,0,0,0,0,0,64,,yes,100,yes,0,count.4,3
+301,b3,ryelage-sorghum sudangrass ,5/13/22,yes,3345.74,7/13/22,yes,4605.57,9/14/22,yes,3198.91,9/8/22,0.25^2,0,14,0,2,0,16,43,,yes,100,yes,0,count.4,12
+403,b4,ryelage-sorghum sudangrass ,5/13/22,yes,3120.45,7/13/22,yes,6360.83,9/14/22,yes,5133.49,9/8/22,0.25^2,0,0,0,0,0,0,19,,yes,100,yes,0,count.4,18
+105,b1,alfalfa/oats ,8/2/22,yes,1432.43,9/14/22,yes,3701.05,na,no,na,9/8/22,0.25^2,0,0,0,0,0,0,15,,yes,100,yes,0,count.4,9
+202,b2,alfalfa/oats ,8/2/22,yes,1883,9/14/22,yes,1587.12,na,no,na,9/8/22,0.25^2,0,0,0,0,0,0,15,,yes,100,yes,0,count.4,6
+304,b3,alfalfa/oats ,8/2/22,yes,1943.53,9/14/22,yes,2662.02,na,no,na,9/8/22,0.25^2,0,0,1,0,1,2,9,,yes,100,yes,1,count.4,27
+405,b4,alfalfa/oats ,8/2/22,yes,2138.55,9/14/22,yes,1348.38,na,no,na,9/8/22,0.25^2,0,1,3,4,0,8,29,,yes,100,yes,4,count.4,20
+101,b1,alfalfa/orchardgrass,7/13/22,yes,2062.36,9/14/22,yes,3030.78,na,no,na,9/8/22,0.25^2,0,0,1,0,3,4,36,,yes,100,yes,4,count.4,3
+204,b2,alfalfa/orchardgrass,7/13/22,yes,1950.28,9/14/22,yes,3063.28,na,no,na,9/8/22,0.25^2,0,0,0,0,0,0,27,,yes,100,yes,0,count.4,53
+306,b3,alfalfa/orchardgrass,7/13/22,yes,3164.16,9/14/22,yes,2299.98,na,no,na,9/8/22,0.25^2,0,0,0,0,0,0,6,,yes,100,yes,0,count.4,34
+402,b4,alfalfa/orchardgrass,7/13/22,yes,2330.25,9/14/22,yes,2249.55,na,no,na,9/8/22,0.25^2,0,0,10,0,0,10,15,,yes,100,yes,0,count.4,8
