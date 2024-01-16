@@ -1,0 +1,25 @@
+﻿plot,block,treatment,germination
+104,b1,wheat-cc mix,10
+201,b2,wheat-cc mix,3
+303,b3,wheat-cc mix,21
+406,b4,wheat-cc mix,22
+103,b1,wheat/clover,11
+203,b2,wheat/clover,6
+305,b3,wheat/clover,8
+401,b4,wheat/clover,5
+106,b1,oats-cc mix,9
+205,b2,oats-cc mix,32
+302,b3,oats-cc mix,27
+404,b4,oats-cc mix,39
+102,b1,ryelage-sorghum sudangrass ,5
+206,b2,ryelage-sorghum sudangrass ,3
+301,b3,ryelage-sorghum sudangrass ,12
+403,b4,ryelage-sorghum sudangrass ,18
+105,b1,alfalfa/oats ,9
+202,b2,alfalfa/oats ,6
+304,b3,alfalfa/oats ,27
+405,b4,alfalfa/oats ,20
+101,b1,alfalfa/orchardgrass,3
+204,b2,alfalfa/orchardgrass,53
+306,b3,alfalfa/orchardgrass,34
+402,b4,alfalfa/orchardgrass,8
