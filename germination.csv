@@ -1,25 +1,25 @@
-﻿plot,block,treatment,germination
-104,b1,wheat-cc mix,10
-201,b2,wheat-cc mix,3
-303,b3,wheat-cc mix,21
-406,b4,wheat-cc mix,22
-103,b1,wheat/clover,11
-203,b2,wheat/clover,6
-305,b3,wheat/clover,8
-401,b4,wheat/clover,5
-106,b1,oats-cc mix,9
-205,b2,oats-cc mix,32
-302,b3,oats-cc mix,27
-404,b4,oats-cc mix,39
-102,b1,ryelage-sorghum sudangrass ,5
-206,b2,ryelage-sorghum sudangrass ,3
-301,b3,ryelage-sorghum sudangrass ,12
-403,b4,ryelage-sorghum sudangrass ,18
-105,b1,alfalfa/oats ,9
-202,b2,alfalfa/oats ,6
-304,b3,alfalfa/oats ,27
-405,b4,alfalfa/oats ,20
-101,b1,alfalfa/orchardgrass,3
-204,b2,alfalfa/orchardgrass,53
-306,b3,alfalfa/orchardgrass,34
-402,b4,alfalfa/orchardgrass,8
+﻿plot,block,treatment,germination,avg
+104,b1,wheat-cc mix,10,14
+201,b2,wheat-cc mix,3,14
+303,b3,wheat-cc mix,21,14
+406,b4,wheat-cc mix,22,14
+103,b1,wheat/clover,11,7.5
+203,b2,wheat/clover,6,7.5
+305,b3,wheat/clover,8,7.5
+401,b4,wheat/clover,5,7.5
+106,b1,oats-cc mix,9,26.75
+205,b2,oats-cc mix,32,26.75
+302,b3,oats-cc mix,27,26.75
+404,b4,oats-cc mix,39,26.75
+102,b1,ryelage-sorghum sudangrass ,5,9.5
+206,b2,ryelage-sorghum sudangrass ,3,9.5
+301,b3,ryelage-sorghum sudangrass ,12,9.5
+403,b4,ryelage-sorghum sudangrass ,18,9.5
+105,b1,alfalfa/oats ,9,15.5
+202,b2,alfalfa/oats ,6,15.5
+304,b3,alfalfa/oats ,27,15.5
+405,b4,alfalfa/oats ,20,15.5
+101,b1,alfalfa/orchardgrass,3,24.5
+204,b2,alfalfa/orchardgrass,53,24.5
+306,b3,alfalfa/orchardgrass,34,24.5
+402,b4,alfalfa/orchardgrass,8,24.5
