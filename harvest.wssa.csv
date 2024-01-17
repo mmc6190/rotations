@@ -1,217 +1,241 @@
-﻿plot,block,treatment,year,quadrat,dateII,date,dist,waterhemp.den
-105,1,alfalfa/oats,2022,1M,15-May,5/15,winter ann forage,18
-202,2,alfalfa/oats,2022,1M,15-May,5/15,winter ann forage,5.5
-304,3,alfalfa/oats,2022,1M,15-May,5/15,winter ann forage,10.5
-405,4,alfalfa/oats,2022,1M,15-May,5/15,winter ann forage,4.45
-101,1,alfalfa/orchardgrass,2022,1M,15-May,5/15,winter ann forage,15
-204,2,alfalfa/orchardgrass,2022,1M,15-May,5/15,winter ann forage,5.5
-306,3,alfalfa/orchardgrass,2022,1M,15-May,5/15,winter ann forage,8.5
-402,4,alfalfa/orchardgrass,2022,1M,15-May,5/15,winter ann forage,7.5
-106,1,oats-cc mix,2022,1M,15-May,5/15,winter ann forage,1
-205,2,oats-cc mix,2022,1M,15-May,5/15,winter ann forage,4
-302,3,oats-cc mix,2022,1M,15-May,5/15,winter ann forage,15.5
-404,4,oats-cc mix,2022,1M,15-May,5/15,winter ann forage,12.5
-102,1,ryelage-sorghum sudangrass,2022,1M,15-May,5/15,winter ann forage,0
-206,2,ryelage-sorghum sudangrass,2022,1M,15-May,5/15,winter ann forage,1
-301,3,ryelage-sorghum sudangrass,2022,1M,15-May,5/15,winter ann forage,1
-403,4,ryelage-sorghum sudangrass,2022,1M,15-May,5/15,winter ann forage,1.5
-104,1,wheat-cc mix,2022,1M,15-May,5/15,winter ann forage,155.5
-201,1,wheat-cc mix,2022,1M,15-May,5/15,winter ann forage,1
-303,3,wheat-cc mix,2022,1M,15-May,5/15,winter ann forage,18.5
-406,4,wheat-cc mix,2022,1M,15-May,5/15,winter ann forage,1
-103,1,wheat/clover,2022,1M,15-May,5/15,winter ann forage,6
-203,2,wheat/clover,2022,1M,15-May,5/15,winter ann forage,3.5
-305,3,wheat/clover,2022,1M,15-May,5/15,winter ann forage,4.5
-401,4,wheat/clover,2022,1M,15-May,5/15,winter ann forage,4.5
-105,1,alfalfa/oats,2023,1M,15-May,5/15,winter ann forage,5
-204,2,alfalfa/oats,2023,1M,15-May,5/15,winter ann forage,8
-301,3,alfalfa/oats,2023,1M,15-May,5/15,winter ann forage,0
-406,4,alfalfa/oats,2023,1M,15-May,5/15,winter ann forage,3
-101,1,alfalfa/orchardgrass,2023,1M,15-May,5/15,winter ann forage,18
-205,2,alfalfa/orchardgrass,2023,1M,15-May,5/15,winter ann forage,7
-303,3,alfalfa/orchardgrass,2023,1M,15-May,5/15,winter ann forage,5
-404,4,alfalfa/orchardgrass,2023,1M,15-May,5/15,winter ann forage,5
-106,1,oats-cc mix,2023,1M,15-May,5/15,winter ann forage,0
-202,2,oats-cc mix,2023,1M,15-May,5/15,winter ann forage,2
-305,3,oats-cc mix,2023,1M,15-May,5/15,winter ann forage,8
-403,4,oats-cc mix,2023,1M,15-May,5/15,winter ann forage,0
-102,1,ryelage-sorghum sudangrass,2023,1M,15-May,5/15,winter ann forage,15
-206,2,ryelage-sorghum sudangrass,2023,1M,15-May,5/15,winter ann forage,1
-304,3,ryelage-sorghum sudangrass,2023,1M,15-May,5/15,winter ann forage,3
-401,4,ryelage-sorghum sudangrass,2023,1M,15-May,5/15,winter ann forage,0
-104,1,wheat-cc mix,2023,1M,15-May,5/15,winter ann forage,5
-201,2,wheat-cc mix,2023,1M,15-May,5/15,winter ann forage,0
-302,3,wheat-cc mix,2023,1M,15-May,5/15,winter ann forage,8
-405,4,wheat-cc mix,2023,1M,15-May,5/15,winter ann forage,0
-103,1,wheat/clover,2023,1M,15-May,5/15,winter ann forage,6
-203,2,wheat/clover,2023,1M,15-May,5/15,winter ann forage,0
-306,3,wheat/clover,2023,1M,15-May,5/15,winter ann forage,0
-402,4,wheat/clover,2023,1M,15-May,5/15,winter ann forage,2
-105,1,alfalfa/oats,2022,1M,15-Jun,6/15,competition,36
-202,2,alfalfa/oats,2022,1M,15-Jun,6/15,competition,16
-304,3,alfalfa/oats,2022,1M,15-Jun,6/15,competition,44
-405,4,alfalfa/oats,2022,1M,15-Jun,6/15,competition,136
-101,1,alfalfa/orchardgrass,2022,1M,15-Jun,6/15,competition,40
-204,2,alfalfa/orchardgrass,2022,1M,15-Jun,6/15,competition,128
-306,3,alfalfa/orchardgrass,2022,1M,15-Jun,6/15,competition,52
-402,4,alfalfa/orchardgrass,2022,1M,15-Jun,6/15,competition,52
-106,1,oats-cc mix,2022,1M,15-Jun,6/15,competition,4
-205,2,oats-cc mix,2022,1M,15-Jun,6/15,competition,4
-302,3,oats-cc mix,2022,1M,15-Jun,6/15,competition,40
-404,4,oats-cc mix,2022,1M,15-Jun,6/15,competition,88
-102,1,ryelage-sorghum sudangrass,2022,1M,15-Jun,6/15,competition,60
-206,2,ryelage-sorghum sudangrass,2022,1M,15-Jun,6/15,competition,272
-301,3,ryelage-sorghum sudangrass,2022,1M,15-Jun,6/15,competition,192
-403,4,ryelage-sorghum sudangrass,2022,1M,15-Jun,6/15,competition,84
-104,1,wheat-cc mix,2022,1M,15-Jun,6/15,competition,12
-201,1,wheat-cc mix,2022,1M,15-Jun,6/15,competition,0
-303,3,wheat-cc mix,2022,1M,15-Jun,6/15,competition,0
-406,4,wheat-cc mix,2022,1M,15-Jun,6/15,competition,0
-103,1,wheat/clover,2022,1M,15-Jun,6/15,competition,4
-203,2,wheat/clover,2022,1M,15-Jun,6/15,competition,16
-305,3,wheat/clover,2022,1M,15-Jun,6/15,competition,28
-401,4,wheat/clover,2022,1M,15-Jun,6/15,competition,48
-105,1,alfalfa/oats,2023,1M,15-Jun,6/15,competition,3
-204,2,alfalfa/oats,2023,1M,15-Jun,6/15,competition,5
-301,3,alfalfa/oats,2023,1M,15-Jun,6/15,competition,5
-406,4,alfalfa/oats,2023,1M,15-Jun,6/15,competition,0
-101,1,alfalfa/orchardgrass,2023,1M,15-Jun,6/15,competition,15
-205,2,alfalfa/orchardgrass,2023,1M,15-Jun,6/15,competition,13
-303,3,alfalfa/orchardgrass,2023,1M,15-Jun,6/15,competition,37
-404,4,alfalfa/orchardgrass,2023,1M,15-Jun,6/15,competition,0
-106,1,oats-cc mix,2023,1M,15-Jun,6/15,competition,0
-202,2,oats-cc mix,2023,1M,15-Jun,6/15,competition,6
-305,3,oats-cc mix,2023,1M,15-Jun,6/15,competition,2
-403,4,oats-cc mix,2023,1M,15-Jun,6/15,competition,4
-102,1,ryelage-sorghum sudangrass,2023,1M,15-Jun,6/15,competition,0
-206,2,ryelage-sorghum sudangrass,2023,1M,15-Jun,6/15,competition,0
-304,3,ryelage-sorghum sudangrass,2023,1M,15-Jun,6/15,competition,0
-401,4,ryelage-sorghum sudangrass,2023,1M,15-Jun,6/15,competition,0
-104,1,wheat-cc mix,2023,1M,15-Jun,6/15,competition,0
-201,2,wheat-cc mix,2023,1M,15-Jun,6/15,competition,2
-302,3,wheat-cc mix,2023,1M,15-Jun,6/15,competition,0
-405,4,wheat-cc mix,2023,1M,15-Jun,6/15,competition,0
-103,1,wheat/clover,2023,1M,15-Jun,6/15,competition,0
-203,2,wheat/clover,2023,1M,15-Jun,6/15,competition,0
-306,3,wheat/clover,2023,1M,15-Jun,6/15,competition,0
-402,4,wheat/clover,2023,1M,15-Jun,6/15,competition,0
-105,1,alfalfa/oats,2023,1M,30-Jun,6/30,per forage,1
-204,2,alfalfa/oats,2023,1M,30-Jun,6/30,per forage,5
-301,3,alfalfa/oats,2023,1M,30-Jun,6/30,per forage,7
-406,4,alfalfa/oats,2023,1M,30-Jun,6/30,per forage,2
-101,1,alfalfa/orchardgrass,2023,1M,30-Jun,6/30,per forage,16
-205,2,alfalfa/orchardgrass,2023,1M,30-Jun,6/30,per forage,17
-303,3,alfalfa/orchardgrass,2023,1M,30-Jun,6/30,per forage,42
-404,4,alfalfa/orchardgrass,2023,1M,30-Jun,6/30,per forage,15
-106,1,oats-cc mix,2023,1M,30-Jun,6/30,per forage,9
-202,2,oats-cc mix,2023,1M,30-Jun,6/30,per forage,5
-305,3,oats-cc mix,2023,1M,30-Jun,6/30,per forage,1
-403,4,oats-cc mix,2023,1M,30-Jun,6/30,per forage,0
-102,1,ryelage-sorghum sudangrass,2023,1M,30-Jun,6/30,per forage,45
-206,2,ryelage-sorghum sudangrass,2023,1M,30-Jun,6/30,per forage,26
-304,3,ryelage-sorghum sudangrass,2023,1M,30-Jun,6/30,per forage,16
-401,4,ryelage-sorghum sudangrass,2023,1M,30-Jun,6/30,per forage,34
-104,1,wheat-cc mix,2023,1M,30-Jun,6/30,per forage,0
-201,2,wheat-cc mix,2023,1M,30-Jun,6/30,per forage,0
-302,3,wheat-cc mix,2023,1M,30-Jun,6/30,per forage,0
-405,4,wheat-cc mix,2023,1M,30-Jun,6/30,per forage,0
-103,1,wheat/clover,2023,1M,30-Jun,6/30,per forage,0
-203,2,wheat/clover,2023,1M,30-Jun,6/30,per forage,3
-306,3,wheat/clover,2023,1M,30-Jun,6/30,per forage,0
-402,4,wheat/clover,2023,1M,30-Jun,6/30,per forage,0
-105,1,alfalfa/oats,2022,1M,15-Jul,7/15,per forage/ann grain,36
-202,2,alfalfa/oats,2022,1M,15-Jul,7/15,per forage/ann grain,20
-304,3,alfalfa/oats,2022,1M,15-Jul,7/15,per forage/ann grain,40
-405,4,alfalfa/oats,2022,1M,15-Jul,7/15,per forage/ann grain,48
-101,1,alfalfa/orchardgrass,2022,1M,15-Jul,7/15,per forage/ann grain,28
-204,2,alfalfa/orchardgrass,2022,1M,15-Jul,7/15,per forage/ann grain,92
-306,3,alfalfa/orchardgrass,2022,1M,15-Jul,7/15,per forage/ann grain,44
-402,4,alfalfa/orchardgrass,2022,1M,15-Jul,7/15,per forage/ann grain,52
-106,1,oats-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,4
-205,2,oats-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,8
-302,3,oats-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,20
-404,4,oats-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,68
-102,1,ryelage-sorghum sudangrass,2022,1M,15-Jul,7/15,per forage/ann grain,16
-206,2,ryelage-sorghum sudangrass,2022,1M,15-Jul,7/15,per forage/ann grain,8
-301,3,ryelage-sorghum sudangrass,2022,1M,15-Jul,7/15,per forage/ann grain,208
-403,4,ryelage-sorghum sudangrass,2022,1M,15-Jul,7/15,per forage/ann grain,0
-104,1,wheat-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,16
-201,1,wheat-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,4
-303,3,wheat-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,12
-406,4,wheat-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,0
-103,1,wheat/clover,2022,1M,15-Jul,7/15,per forage/ann grain,0
-203,2,wheat/clover,2022,1M,15-Jul,7/15,per forage/ann grain,16
-305,3,wheat/clover,2022,1M,15-Jul,7/15,per forage/ann grain,28
-401,4,wheat/clover,2022,1M,15-Jul,7/15,per forage/ann grain,36
-105,1,alfalfa/oats,2023,1M,30-Jul,7/30,ann grain,5
-204,2,alfalfa/oats,2023,1M,30-Jul,7/30,ann grain,7
-301,3,alfalfa/oats,2023,1M,30-Jul,7/30,ann grain,8
-406,4,alfalfa/oats,2023,1M,30-Jul,7/30,ann grain,2
-101,1,alfalfa/orchardgrass,2023,1M,30-Jul,7/30,ann grain,15
-205,2,alfalfa/orchardgrass,2023,1M,30-Jul,7/30,ann grain,8
-303,3,alfalfa/orchardgrass,2023,1M,30-Jul,7/30,ann grain,16
-404,4,alfalfa/orchardgrass,2023,1M,30-Jul,7/30,ann grain,22
-106,1,oats-cc mix,2023,1M,30-Jul,7/30,ann grain,6
-202,2,oats-cc mix,2023,1M,30-Jul,7/30,ann grain,3
-305,3,oats-cc mix,2023,1M,30-Jul,7/30,ann grain,5
-403,4,oats-cc mix,2023,1M,30-Jul,7/30,ann grain,3
-102,1,ryelage-sorghum sudangrass,2023,1M,30-Jul,7/30,ann grain,58
-206,2,ryelage-sorghum sudangrass,2023,1M,30-Jul,7/30,ann grain,47
-304,3,ryelage-sorghum sudangrass,2023,1M,30-Jul,7/30,ann grain,40
-401,4,ryelage-sorghum sudangrass,2023,1M,30-Jul,7/30,ann grain,68
-104,1,wheat-cc mix,2023,1M,30-Jul,7/30,ann grain,0
-201,2,wheat-cc mix,2023,1M,30-Jul,7/30,ann grain,10
-302,3,wheat-cc mix,2023,1M,30-Jul,7/30,ann grain,11
-405,4,wheat-cc mix,2023,1M,30-Jul,7/30,ann grain,9
-103,1,wheat/clover,2023,1M,30-Jul,7/30,ann grain,3
-203,2,wheat/clover,2023,1M,30-Jul,7/30,ann grain,10
-306,3,wheat/clover,2023,1M,30-Jul,7/30,ann grain,4
-402,4,wheat/clover,2023,1M,30-Jul,7/30,ann grain,7
-105,1,alfalfa/oats,2023,1M,15-Aug,8/15,ann forage,4
-204,2,alfalfa/oats,2023,1M,15-Aug,8/15,ann forage,6
-301,3,alfalfa/oats,2023,1M,15-Aug,8/15,ann forage,6
-406,4,alfalfa/oats,2023,1M,15-Aug,8/15,ann forage,2
-101,1,alfalfa/orchardgrass,2023,1M,15-Aug,8/15,ann forage,15
-205,2,alfalfa/orchardgrass,2023,1M,15-Aug,8/15,ann forage,7
-303,3,alfalfa/orchardgrass,2023,1M,15-Aug,8/15,ann forage,24
-404,4,alfalfa/orchardgrass,2023,1M,15-Aug,8/15,ann forage,17
-106,1,oats-cc mix,2023,1M,15-Aug,8/15,ann forage,13
-202,2,oats-cc mix,2023,1M,15-Aug,8/15,ann forage,13
-305,3,oats-cc mix,2023,1M,15-Aug,8/15,ann forage,7
-403,4,oats-cc mix,2023,1M,15-Aug,8/15,ann forage,4
-102,1,ryelage-sorghum sudangrass,2023,1M,15-Aug,8/15,ann forage,53
-206,2,ryelage-sorghum sudangrass,2023,1M,15-Aug,8/15,ann forage,41
-304,3,ryelage-sorghum sudangrass,2023,1M,15-Aug,8/15,ann forage,21
-401,4,ryelage-sorghum sudangrass,2023,1M,15-Aug,8/15,ann forage,64
-104,1,wheat-cc mix,2023,1M,15-Aug,8/15,ann forage,1
-201,2,wheat-cc mix,2023,1M,15-Aug,8/15,ann forage,13
-302,3,wheat-cc mix,2023,1M,15-Aug,8/15,ann forage,15
-405,4,wheat-cc mix,2023,1M,15-Aug,8/15,ann forage,11
-103,1,wheat/clover,2023,1M,15-Aug,8/15,ann forage,1
-203,2,wheat/clover,2023,1M,15-Aug,8/15,ann forage,5
-306,3,wheat/clover,2023,1M,15-Aug,8/15,ann forage,4
-402,4,wheat/clover,2023,1M,15-Aug,8/15,ann forage,7
-105,1,alfalfa/oats,2022,1M,15-Sep,9/15,summer ann forage,0
-202,2,alfalfa/oats,2022,1M,15-Sep,9/15,summer ann forage,0
-304,3,alfalfa/oats,2022,1M,15-Sep,9/15,summer ann forage,8
-405,4,alfalfa/oats,2022,1M,15-Sep,9/15,summer ann forage,32
-101,1,alfalfa/orchardgrass,2022,1M,15-Sep,9/15,summer ann forage,16
-204,2,alfalfa/orchardgrass,2022,1M,15-Sep,9/15,summer ann forage,0
-306,3,alfalfa/orchardgrass,2022,1M,15-Sep,9/15,summer ann forage,0
-402,4,alfalfa/orchardgrass,2022,1M,15-Sep,9/15,summer ann forage,40
-106,1,oats-cc mix,2022,1M,15-Sep,9/15,summer ann forage,2
-205,2,oats-cc mix,2022,1M,15-Sep,9/15,summer ann forage,0
-302,3,oats-cc mix,2022,1M,15-Sep,9/15,summer ann forage,0
-404,4,oats-cc mix,2022,1M,15-Sep,9/15,summer ann forage,64
-102,1,ryelage-sorghum sudangrass,2022,1M,15-Sep,9/15,summer ann forage,32
-206,2,ryelage-sorghum sudangrass,2022,1M,15-Sep,9/15,summer ann forage,0
-301,3,ryelage-sorghum sudangrass,2022,1M,15-Sep,9/15,summer ann forage,64
-403,4,ryelage-sorghum sudangrass,2022,1M,15-Sep,9/15,summer ann forage,0
-104,1,wheat-cc mix,2022,1M,15-Sep,9/15,summer ann forage,20
-201,1,wheat-cc mix,2022,1M,15-Sep,9/15,summer ann forage,12
-303,3,wheat-cc mix,2022,1M,15-Sep,9/15,summer ann forage,0
-406,4,wheat-cc mix,2022,1M,15-Sep,9/15,summer ann forage,0
-103,1,wheat/clover,2022,1M,15-Sep,9/15,summer ann forage,0
-203,2,wheat/clover,2022,1M,15-Sep,9/15,summer ann forage,0
-305,3,wheat/clover,2022,1M,15-Sep,9/15,summer ann forage,0
-401,4,wheat/clover,2022,1M,15-Sep,9/15,summer ann forage,0
+﻿plot,block,treatment,year,quadrat,dateII,date,dist,waterhemp.den,flowering,germination,avg,,,,,,
+101,1,alfalfa/orchardgrass,2022,1M,15-May,5/15,winter ann forage,15,2,10,14,,,,,,
+102,1,ryelage-sorghum sudangrass,2022,1M,15-May,5/15,winter ann forage,0,0,3,14,,,,,,
+103,1,wheat/clover,2022,1M,15-May,5/15,winter ann forage,6,0,21,14,,,,,,
+104,1,wheat-cc mix,2022,1M,15-May,5/15,winter ann forage,155.5,0,22,14,,,,,,
+105,1,alfalfa/oats,2022,1M,15-May,5/15,winter ann forage,18,2,11,7.5,,,,,,
+106,1,oats-cc mix,2022,1M,15-May,5/15,winter ann forage,1,0,6,7.5,,,,,,
+201,1,wheat-cc mix,2022,1M,15-May,5/15,winter ann forage,1,0,8,7.5,,,,,,
+202,2,alfalfa/oats,2022,1M,15-May,5/15,winter ann forage,5.5,0,5,7.5,,,,,,
+203,2,wheat/clover,2022,1M,15-May,5/15,winter ann forage,3.5,0,9,26.75,,,,,,
+204,2,alfalfa/orchardgrass,2022,1M,15-May,5/15,winter ann forage,5.5,1,32,26.75,,,,,,
+205,2,oats-cc mix,2022,1M,15-May,5/15,winter ann forage,4,0,27,26.75,,,,,,
+206,2,ryelage-sorghum sudangrass,2022,1M,15-May,5/15,winter ann forage,1,0,39,26.75,,,,,,
+301,3,ryelage-sorghum sudangrass,2022,1M,15-May,5/15,winter ann forage,1,4,5,9.5,,,,,,
+302,3,oats-cc mix,2022,1M,15-May,5/15,winter ann forage,15.5,0,3,9.5,,,,,,
+303,3,wheat-cc mix,2022,1M,15-May,5/15,winter ann forage,18.5,0,12,9.5,,,,,,
+304,3,alfalfa/oats,2022,1M,15-May,5/15,winter ann forage,10.5,0,18,9.5,,,,,,
+305,3,wheat/clover,2022,1M,15-May,5/15,winter ann forage,4.5,0,9,15.5,,,,,,
+306,3,alfalfa/orchardgrass,2022,1M,15-May,5/15,winter ann forage,8.5,0,6,15.5,,,,,,
+401,4,wheat/clover,2022,1M,15-May,5/15,winter ann forage,4.5,0,27,15.5,,,,,,
+402,4,alfalfa/orchardgrass,2022,1M,15-May,5/15,winter ann forage,7.5,1,20,15.5,,,,,,
+403,4,ryelage-sorghum sudangrass,2022,1M,15-May,5/15,winter ann forage,1.5,2,3,24.5,,,,,,
+404,4,oats-cc mix,2022,1M,15-May,5/15,winter ann forage,12.5,0,53,24.5,,,,,,
+405,4,alfalfa/oats,2022,1M,15-May,5/15,winter ann forage,4.45,4,34,24.5,,,,,,
+406,4,wheat-cc mix,2022,1M,15-May,5/15,winter ann forage,1,0,8,24.5,,,,,,
+101,1,alfalfa/orchardgrass,2023,1M,15-May,5/15,winter ann forage,18,6,,,,,,,,
+102,1,ryelage-sorghum sudangrass,2023,1M,15-May,5/15,winter ann forage,15,9,,,,,,,,
+103,1,wheat/clover,2023,1M,15-May,5/15,winter ann forage,6,0,,,,,,,,
+104,1,wheat-cc mix,2023,1M,15-May,5/15,winter ann forage,5,1,,,,,,,,
+105,1,alfalfa/oats,2023,1M,15-May,5/15,winter ann forage,5,5,,,,,,,,
+106,1,oats-cc mix,2023,1M,15-May,5/15,winter ann forage,0,13,,,,,,,,
+201,2,wheat-cc mix,2023,1M,15-May,5/15,winter ann forage,0,2,,,,,,,,
+202,2,oats-cc mix,2023,1M,15-May,5/15,winter ann forage,2,1,,,,,,,,
+203,2,wheat/clover,2023,1M,15-May,5/15,winter ann forage,0,1,,,,,,,,
+204,2,alfalfa/oats,2023,1M,15-May,5/15,winter ann forage,8,1,,,,,,,,
+205,2,alfalfa/orchardgrass,2023,1M,15-May,5/15,winter ann forage,7,5,,,,,,,,
+206,2,ryelage-sorghum sudangrass,2023,1M,15-May,5/15,winter ann forage,1,9,,,,,,,,
+301,3,alfalfa/oats,2023,1M,15-May,5/15,winter ann forage,0,4,,,,,,,,
+302,3,wheat-cc mix,2023,1M,15-May,5/15,winter ann forage,8,5,,,,,,,,
+303,3,alfalfa/orchardgrass,2023,1M,15-May,5/15,winter ann forage,5,4,,,,,,,,
+304,3,ryelage-sorghum sudangrass,2023,1M,15-May,5/15,winter ann forage,3,9,,,,,,,,
+305,3,oats-cc mix,2023,1M,15-May,5/15,winter ann forage,8,3,,,,,,,,
+306,3,wheat/clover,2023,1M,15-May,5/15,winter ann forage,0,0,,,,,,,,
+401,4,ryelage-sorghum sudangrass,2023,1M,15-May,5/15,winter ann forage,0,3,,,,,,,,
+402,4,wheat/clover,2023,1M,15-May,5/15,winter ann forage,2,0,,,,,,,,
+403,4,oats-cc mix,2023,1M,15-May,5/15,winter ann forage,0,1,,,,,,,,
+404,4,alfalfa/orchardgrass,2023,1M,15-May,5/15,winter ann forage,5,3,,,,,,,,
+405,4,wheat-cc mix,2023,1M,15-May,5/15,winter ann forage,0,7,,,,,,,,
+406,4,alfalfa/oats,2023,1M,15-May,5/15,winter ann forage,3,0,,,,,,,,
+101,1,alfalfa/orchardgrass,2022,1M,15-Jun,6/15,competition,40,,,,,,,,,
+102,1,ryelage-sorghum sudangrass,2022,1M,15-Jun,6/15,competition,60,,,,,,,,,
+103,1,wheat/clover,2022,1M,15-Jun,6/15,competition,4,,,,,,,,,
+104,1,wheat-cc mix,2022,1M,15-Jun,6/15,competition,12,,,,,,,,,
+105,1,alfalfa/oats,2022,1M,15-Jun,6/15,competition,36,,,,,,,,,
+106,1,oats-cc mix,2022,1M,15-Jun,6/15,competition,4,,,,,,,,,
+201,1,wheat-cc mix,2022,1M,15-Jun,6/15,competition,0,,,,,,,,,
+202,2,alfalfa/oats,2022,1M,15-Jun,6/15,competition,16,,,,,,,,,
+203,2,wheat/clover,2022,1M,15-Jun,6/15,competition,16,,,,,,,,,
+204,2,alfalfa/orchardgrass,2022,1M,15-Jun,6/15,competition,128,,,,,,,,,
+205,2,oats-cc mix,2022,1M,15-Jun,6/15,competition,4,,,,,,,,,
+206,2,ryelage-sorghum sudangrass,2022,1M,15-Jun,6/15,competition,272,,,,,,,,,
+301,3,ryelage-sorghum sudangrass,2022,1M,15-Jun,6/15,competition,192,,,,,,,,,
+302,3,oats-cc mix,2022,1M,15-Jun,6/15,competition,40,,,,,,,,,
+303,3,wheat-cc mix,2022,1M,15-Jun,6/15,competition,0,,,,,,,,,
+304,3,alfalfa/oats,2022,1M,15-Jun,6/15,competition,44,,,,,,,,,
+305,3,wheat/clover,2022,1M,15-Jun,6/15,competition,28,,,,,,,,,
+306,3,alfalfa/orchardgrass,2022,1M,15-Jun,6/15,competition,52,,,,,,,,,
+401,4,wheat/clover,2022,1M,15-Jun,6/15,competition,48,,,,,,,,,
+402,4,alfalfa/orchardgrass,2022,1M,15-Jun,6/15,competition,52,,,,,,,,,
+403,4,ryelage-sorghum sudangrass,2022,1M,15-Jun,6/15,competition,84,,,,,,,,,
+404,4,oats-cc mix,2022,1M,15-Jun,6/15,competition,88,,,,,,,,,
+405,4,alfalfa/oats,2022,1M,15-Jun,6/15,competition,136,,,,,,,,,
+406,4,wheat-cc mix,2022,1M,15-Jun,6/15,competition,0,,,,,,,,,
+101,1,alfalfa/orchardgrass,2023,1M,15-Jun,6/15,competition,15,,,,,,,,,
+102,1,ryelage-sorghum sudangrass,2023,1M,15-Jun,6/15,competition,0,,,,,,,,,
+103,1,wheat/clover,2023,1M,15-Jun,6/15,competition,0,,,,,,,,,
+104,1,wheat-cc mix,2023,1M,15-Jun,6/15,competition,0,,,,,,,,,
+105,1,alfalfa/oats,2023,1M,15-Jun,6/15,competition,3,,,,,,,,,
+106,1,oats-cc mix,2023,1M,15-Jun,6/15,competition,0,,,,,,,,,
+201,2,wheat-cc mix,2023,1M,15-Jun,6/15,competition,2,,,,,,,,,
+202,2,oats-cc mix,2023,1M,15-Jun,6/15,competition,6,,,,,,,,,
+203,2,wheat/clover,2023,1M,15-Jun,6/15,competition,0,,,,,,,,,
+204,2,alfalfa/oats,2023,1M,15-Jun,6/15,competition,5,,,,,,,,,
+205,2,alfalfa/orchardgrass,2023,1M,15-Jun,6/15,competition,13,,,,,,,,,
+206,2,ryelage-sorghum sudangrass,2023,1M,15-Jun,6/15,competition,0,,,,,,,,,
+301,3,alfalfa/oats,2023,1M,15-Jun,6/15,competition,5,,,,,,,,,
+302,3,wheat-cc mix,2023,1M,15-Jun,6/15,competition,0,,,,,,,,,
+303,3,alfalfa/orchardgrass,2023,1M,15-Jun,6/15,competition,37,,,,,,,,,
+304,3,ryelage-sorghum sudangrass,2023,1M,15-Jun,6/15,competition,0,,,,,,,,,
+305,3,oats-cc mix,2023,1M,15-Jun,6/15,competition,2,,,,,,,,,
+306,3,wheat/clover,2023,1M,15-Jun,6/15,competition,0,,,,,,,,,
+401,4,ryelage-sorghum sudangrass,2023,1M,15-Jun,6/15,competition,0,,,,,,,,,
+402,4,wheat/clover,2023,1M,15-Jun,6/15,competition,0,,,,,,,,,
+403,4,oats-cc mix,2023,1M,15-Jun,6/15,competition,4,,,,,,,,,
+404,4,alfalfa/orchardgrass,2023,1M,15-Jun,6/15,competition,0,,,,,,,,,
+405,4,wheat-cc mix,2023,1M,15-Jun,6/15,competition,0,,,,,,,,,
+406,4,alfalfa/oats,2023,1M,15-Jun,6/15,competition,0,,,,,,,,,
+101,1,alfalfa/orchardgrass,2023,1M,30-Jun,6/30,per forage,16,,,,,,,,,
+102,1,ryelage-sorghum sudangrass,2023,1M,30-Jun,6/30,per forage,45,,,,,,,,,
+103,1,wheat/clover,2023,1M,30-Jun,6/30,per forage,0,,,,,,,,,
+104,1,wheat-cc mix,2023,1M,30-Jun,6/30,per forage,0,,,,,,,,,
+105,1,alfalfa/oats,2023,1M,30-Jun,6/30,per forage,1,,,,,,,,,
+106,1,oats-cc mix,2023,1M,30-Jun,6/30,per forage,9,,,,,,,,,
+201,2,wheat-cc mix,2023,1M,30-Jun,6/30,per forage,0,,,,,,,,,
+202,2,oats-cc mix,2023,1M,30-Jun,6/30,per forage,5,,,,,,,,,
+203,2,wheat/clover,2023,1M,30-Jun,6/30,per forage,3,,,,,,,,,
+204,2,alfalfa/oats,2023,1M,30-Jun,6/30,per forage,5,,,,,,,,,
+205,2,alfalfa/orchardgrass,2023,1M,30-Jun,6/30,per forage,17,,,,,,,,,
+206,2,ryelage-sorghum sudangrass,2023,1M,30-Jun,6/30,per forage,26,,,,,,,,,
+301,3,alfalfa/oats,2023,1M,30-Jun,6/30,per forage,7,,,,,,,,,
+302,3,wheat-cc mix,2023,1M,30-Jun,6/30,per forage,0,,,,,,,,,
+303,3,alfalfa/orchardgrass,2023,1M,30-Jun,6/30,per forage,42,,,,,,,,,
+304,3,ryelage-sorghum sudangrass,2023,1M,30-Jun,6/30,per forage,16,,,,,,,,,
+305,3,oats-cc mix,2023,1M,30-Jun,6/30,per forage,1,,,,,,,,,
+306,3,wheat/clover,2023,1M,30-Jun,6/30,per forage,0,,,,,,,,,
+401,4,ryelage-sorghum sudangrass,2023,1M,30-Jun,6/30,per forage,34,,,,,,,,,
+402,4,wheat/clover,2023,1M,30-Jun,6/30,per forage,0,,,,,,,,,
+403,4,oats-cc mix,2023,1M,30-Jun,6/30,per forage,0,,,,,,,,,
+404,4,alfalfa/orchardgrass,2023,1M,30-Jun,6/30,per forage,15,,,,,,,,,
+405,4,wheat-cc mix,2023,1M,30-Jun,6/30,per forage,0,,,,,,,,,
+406,4,alfalfa/oats,2023,1M,30-Jun,6/30,per forage,2,,,,,,,,,
+101,1,alfalfa/orchardgrass,2022,1M,15-Jul,7/15,per forage/ann grain,28,,,,,,,,,
+102,1,ryelage-sorghum sudangrass,2022,1M,15-Jul,7/15,per forage/ann grain,16,,,,,,,,,
+103,1,wheat/clover,2022,1M,15-Jul,7/15,per forage/ann grain,0,,,,,,,,,
+104,1,wheat-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,16,,,,,,,,,
+105,1,alfalfa/oats,2022,1M,15-Jul,7/15,per forage/ann grain,36,,,,,,,,,
+106,1,oats-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,4,,,,,,,,,
+201,1,wheat-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,4,,,,,,,,,
+202,2,alfalfa/oats,2022,1M,15-Jul,7/15,per forage/ann grain,20,,,,,,,,,
+203,2,wheat/clover,2022,1M,15-Jul,7/15,per forage/ann grain,16,,,,,,,,,
+204,2,alfalfa/orchardgrass,2022,1M,15-Jul,7/15,per forage/ann grain,92,,,,,,,,,
+205,2,oats-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,8,,,,,,,,,
+206,2,ryelage-sorghum sudangrass,2022,1M,15-Jul,7/15,per forage/ann grain,8,,,,,,,,,
+301,3,ryelage-sorghum sudangrass,2022,1M,15-Jul,7/15,per forage/ann grain,208,,,,,,,,,
+302,3,oats-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,20,,,,,,,,,
+303,3,wheat-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,12,,,,,,,,,
+304,3,alfalfa/oats,2022,1M,15-Jul,7/15,per forage/ann grain,40,,,,,,,,,
+305,3,wheat/clover,2022,1M,15-Jul,7/15,per forage/ann grain,28,,,,,,,,,
+306,3,alfalfa/orchardgrass,2022,1M,15-Jul,7/15,per forage/ann grain,44,,,,,,,,,
+401,4,wheat/clover,2022,1M,15-Jul,7/15,per forage/ann grain,36,,,,,,,,,
+402,4,alfalfa/orchardgrass,2022,1M,15-Jul,7/15,per forage/ann grain,52,,,,,,,,,
+403,4,ryelage-sorghum sudangrass,2022,1M,15-Jul,7/15,per forage/ann grain,0,,,,,,,,,
+404,4,oats-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,68,,,,,,,,,
+405,4,alfalfa/oats,2022,1M,15-Jul,7/15,per forage/ann grain,48,,,,,,,,,
+406,4,wheat-cc mix,2022,1M,15-Jul,7/15,per forage/ann grain,0,,,,,,,,,
+101,1,alfalfa/orchardgrass,2023,1M,30-Jul,7/30,ann grain,15,,,,,,,,,
+102,1,ryelage-sorghum sudangrass,2023,1M,30-Jul,7/30,ann grain,58,,,,,,,,,
+103,1,wheat/clover,2023,1M,30-Jul,7/30,ann grain,3,,,,,,,,,
+104,1,wheat-cc mix,2023,1M,30-Jul,7/30,ann grain,0,,,,,,,,,
+105,1,alfalfa/oats,2023,1M,30-Jul,7/30,ann grain,5,,,,,,,,,
+106,1,oats-cc mix,2023,1M,30-Jul,7/30,ann grain,6,,,,,,,,,
+201,2,wheat-cc mix,2023,1M,30-Jul,7/30,ann grain,10,,,,,,,,,
+202,2,oats-cc mix,2023,1M,30-Jul,7/30,ann grain,3,,,,,,,,,
+203,2,wheat/clover,2023,1M,30-Jul,7/30,ann grain,10,,,,,,,,,
+204,2,alfalfa/oats,2023,1M,30-Jul,7/30,ann grain,7,,,,,,,,,
+205,2,alfalfa/orchardgrass,2023,1M,30-Jul,7/30,ann grain,8,,,,,,,,,
+206,2,ryelage-sorghum sudangrass,2023,1M,30-Jul,7/30,ann grain,47,,,,,,,,,
+301,3,alfalfa/oats,2023,1M,30-Jul,7/30,ann grain,8,,,,,,,,,
+302,3,wheat-cc mix,2023,1M,30-Jul,7/30,ann grain,11,,,,,,,,,
+303,3,alfalfa/orchardgrass,2023,1M,30-Jul,7/30,ann grain,16,,,,,,,,,
+304,3,ryelage-sorghum sudangrass,2023,1M,30-Jul,7/30,ann grain,40,,,,,,,,,
+305,3,oats-cc mix,2023,1M,30-Jul,7/30,ann grain,5,,,,,,,,,
+306,3,wheat/clover,2023,1M,30-Jul,7/30,ann grain,4,,,,,,,,,
+401,4,ryelage-sorghum sudangrass,2023,1M,30-Jul,7/30,ann grain,68,,,,,,,,,
+402,4,wheat/clover,2023,1M,30-Jul,7/30,ann grain,7,,,,,,,,,
+403,4,oats-cc mix,2023,1M,30-Jul,7/30,ann grain,3,,,,,,,,,
+404,4,alfalfa/orchardgrass,2023,1M,30-Jul,7/30,ann grain,22,,,,,,,,,
+405,4,wheat-cc mix,2023,1M,30-Jul,7/30,ann grain,9,,,,,,,,,
+406,4,alfalfa/oats,2023,1M,30-Jul,7/30,ann grain,2,,,,,,,,,
+101,1,alfalfa/orchardgrass,2022,1M,15-Aug,8/15,competition,29,,,,,,,,,
+102,1,ryelage-sorghum sudangrass,2022,1M,15-Aug,8/15,competition,14,,,,,,,,,
+103,1,wheat/clover,2022,1M,15-Aug,8/15,competition,0,,,,,,,,,
+104,1,wheat-cc mix,2022,1M,15-Aug,8/15,competition,4,,,,,,,,,
+105,1,alfalfa/oats,2022,1M,15-Aug,8/15,competition,6,,,,,,,,,
+106,1,oats-cc mix,2022,1M,15-Aug,8/15,competition,0,,,,,,,,,
+201,2,wheat-cc mix,2022,1M,15-Aug,8/15,competition,0,,,,,,,,,
+202,2,oats-cc mix,2022,1M,15-Aug,8/15,competition,13,,,,,,,,,
+203,2,wheat/clover,2022,1M,15-Aug,8/15,competition,0,,,,,,,,,
+204,2,alfalfa/oats,2022,1M,15-Aug,8/15,competition,21,,,,,,,,,
+205,2,alfalfa/orchardgrass,2022,1M,15-Aug,8/15,competition,6,,,,,,,,,
+206,2,ryelage-sorghum sudangrass,2022,1M,15-Aug,8/15,competition,32,,,,,,,,,
+301,3,alfalfa/oats,2022,1M,15-Aug,8/15,competition,30,,,,,,,,,
+302,3,wheat-cc mix,2022,1M,15-Aug,8/15,competition,11,,,,,,,,,
+303,3,alfalfa/orchardgrass,2022,1M,15-Aug,8/15,competition,2,,,,,,,,,
+304,3,ryelage-sorghum sudangrass,2022,1M,15-Aug,8/15,competition,8,,,,,,,,,
+305,3,oats-cc mix,2022,1M,15-Aug,8/15,competition,10,,,,,,,,,
+306,3,wheat/clover,2022,1M,15-Aug,8/15,competition,16,,,,,,,,,
+401,4,ryelage-sorghum sudangrass,2022,1M,15-Aug,8/15,competition,0,,,,,,,,,
+402,4,wheat/clover,2022,1M,15-Aug,8/15,competition,5,,,,,,,,,
+403,4,oats-cc mix,2022,1M,15-Aug,8/15,competition,29,,,,,,,,,
+404,4,alfalfa/orchardgrass,2022,1M,15-Aug,8/15,competition,11,,,,,,,,,
+405,4,wheat-cc mix,2022,1M,15-Aug,8/15,competition,23,,,,,,,,,
+406,4,alfalfa/oats,2022,1M,15-Aug,8/15,competition,1,,,,,,,,,
+101,1,alfalfa/orchardgrass,2023,1M,15-Aug,8/15,ann forage,15,,,,,,,,,
+102,1,ryelage-sorghum sudangrass,2023,1M,15-Aug,8/15,ann forage,53,,,,,,,,,
+103,1,wheat/clover,2023,1M,15-Aug,8/15,ann forage,1,,,,,,,,,
+104,1,wheat-cc mix,2023,1M,15-Aug,8/15,ann forage,1,,,,,,,,,
+105,1,alfalfa/oats,2023,1M,15-Aug,8/15,ann forage,4,,,,,,,,,
+106,1,oats-cc mix,2023,1M,15-Aug,8/15,ann forage,13,,,,,,,,,
+201,2,wheat-cc mix,2023,1M,15-Aug,8/15,ann forage,13,,,,,,,,,
+202,2,oats-cc mix,2023,1M,15-Aug,8/15,ann forage,13,,,,,,,,,
+203,2,wheat/clover,2023,1M,15-Aug,8/15,ann forage,5,,,,,,,,,
+204,2,alfalfa/oats,2023,1M,15-Aug,8/15,ann forage,6,,,,,,,,,
+205,2,alfalfa/orchardgrass,2023,1M,15-Aug,8/15,ann forage,7,,,,,,,,,
+206,2,ryelage-sorghum sudangrass,2023,1M,15-Aug,8/15,ann forage,41,,,,,,,,,
+301,3,alfalfa/oats,2023,1M,15-Aug,8/15,ann forage,6,,,,,,,,,
+302,3,wheat-cc mix,2023,1M,15-Aug,8/15,ann forage,15,,,,,,,,,
+303,3,alfalfa/orchardgrass,2023,1M,15-Aug,8/15,ann forage,24,,,,,,,,,
+304,3,ryelage-sorghum sudangrass,2023,1M,15-Aug,8/15,ann forage,21,,,,,,,,,
+305,3,oats-cc mix,2023,1M,15-Aug,8/15,ann forage,7,,,,,,,,,
+306,3,wheat/clover,2023,1M,15-Aug,8/15,ann forage,4,,,,,,,,,
+401,4,ryelage-sorghum sudangrass,2023,1M,15-Aug,8/15,ann forage,64,,,,,,,,,
+402,4,wheat/clover,2023,1M,15-Aug,8/15,ann forage,7,,,,,,,,,
+403,4,oats-cc mix,2023,1M,15-Aug,8/15,ann forage,4,,,,,,,,,
+404,4,alfalfa/orchardgrass,2023,1M,15-Aug,8/15,ann forage,17,,,,,,,,,
+405,4,wheat-cc mix,2023,1M,15-Aug,8/15,ann forage,11,,,,,,,,,
+406,4,alfalfa/oats,2023,1M,15-Aug,8/15,ann forage,2,,,,,,,,,
+101,1,alfalfa/orchardgrass,2022,1M,15-Sep,9/15,summer ann forage,16,,,,,,,,,
+102,1,ryelage-sorghum sudangrass,2022,1M,15-Sep,9/15,summer ann forage,32,,,,,,,,,
+103,1,wheat/clover,2022,1M,15-Sep,9/15,summer ann forage,0,,,,,,,,,
+104,1,wheat-cc mix,2022,1M,15-Sep,9/15,summer ann forage,20,,,,,,,,,
+105,1,alfalfa/oats,2022,1M,15-Sep,9/15,summer ann forage,0,,,,,,,,,
+106,1,oats-cc mix,2022,1M,15-Sep,9/15,summer ann forage,2,,,,,,,,,
+201,1,wheat-cc mix,2022,1M,15-Sep,9/15,summer ann forage,12,,,,,,,,,
+202,2,alfalfa/oats,2022,1M,15-Sep,9/15,summer ann forage,0,,,,,,,,,
+203,2,wheat/clover,2022,1M,15-Sep,9/15,summer ann forage,0,,,,,,,,,
+204,2,alfalfa/orchardgrass,2022,1M,15-Sep,9/15,summer ann forage,0,,,,,,,,,
+205,2,oats-cc mix,2022,1M,15-Sep,9/15,summer ann forage,0,,,,,,,,,
+206,2,ryelage-sorghum sudangrass,2022,1M,15-Sep,9/15,summer ann forage,0,,,,,,,,,
+301,3,ryelage-sorghum sudangrass,2022,1M,15-Sep,9/15,summer ann forage,64,,,,,,,,,
+302,3,oats-cc mix,2022,1M,15-Sep,9/15,summer ann forage,0,,,,,,,,,
+303,3,wheat-cc mix,2022,1M,15-Sep,9/15,summer ann forage,0,,,,,,,,,
+304,3,alfalfa/oats,2022,1M,15-Sep,9/15,summer ann forage,8,,,,,,,,,
+305,3,wheat/clover,2022,1M,15-Sep,9/15,summer ann forage,0,,,,,,,,,
+306,3,alfalfa/orchardgrass,2022,1M,15-Sep,9/15,summer ann forage,0,,,,,,,,,
+401,4,wheat/clover,2022,1M,15-Sep,9/15,summer ann forage,0,,,,,,,,,
+402,4,alfalfa/orchardgrass,2022,1M,15-Sep,9/15,summer ann forage,40,,,,,,,,,
+403,4,ryelage-sorghum sudangrass,2022,1M,15-Sep,9/15,summer ann forage,0,,,,,,,,,
+404,4,oats-cc mix,2022,1M,15-Sep,9/15,summer ann forage,64,,,,,,,,,
+405,4,alfalfa/oats,2022,1M,15-Sep,9/15,summer ann forage,32,,,,,,,,,
+406,4,wheat-cc mix,2022,1M,15-Sep,9/15,summer ann forage,0,,,,,,,,,
