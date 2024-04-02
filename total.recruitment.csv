@@ -1,0 +1,289 @@
+﻿plot,block,treatment,year,quadrat,date,recruit.no
+104,b1,fall wheat cc mix,2022,1M,1-Jun,124
+104,b1,fall wheat cc mix,2022,1M,30-Jun,28
+104,b1,fall wheat cc mix,2022,1M,15-Jul,16
+104,b1,fall wheat cc mix,2022,1M,15-Aug,0
+104,b1,fall wheat cc mix,2022,1M,15-Sep,12
+104,b1,fall wheat cc mix,2022,1M,15-Oct,0
+201,b2,fall wheat cc mix,2022,1M,1-Jun,12
+201,b2,fall wheat cc mix,2022,1M,30-Jun,0
+201,b2,fall wheat cc mix,2022,1M,15-Jul,0
+201,b2,fall wheat cc mix,2022,1M,15-Aug,0
+201,b2,fall wheat cc mix,2022,1M,15-Sep,0
+201,b2,fall wheat cc mix,2022,1M,15-Oct,0
+303,b3,fall wheat cc mix,2022,1M,1-Jun,12
+303,b3,fall wheat cc mix,2022,1M,30-Jun,0
+303,b3,fall wheat cc mix,2022,1M,15-Jul,12
+303,b3,fall wheat cc mix,2022,1M,15-Aug,0
+303,b3,fall wheat cc mix,2022,1M,15-Sep,0
+303,b3,fall wheat cc mix,2022,1M,15-Oct,0
+406,b4,fall wheat cc mix,2022,1M,1-Jun,8
+406,b4,fall wheat cc mix,2022,1M,30-Jun,0
+406,b4,fall wheat cc mix,2022,1M,15-Jul,0
+406,b4,fall wheat cc mix,2022,1M,15-Aug,4
+406,b4,fall wheat cc mix,2022,1M,15-Sep,0
+406,b4,fall wheat cc mix,2022,1M,15-Oct,0
+103,b1,fall wheat clover,2022,1M,1-Jun,12
+103,b1,fall wheat clover,2022,1M,30-Jun,4
+103,b1,fall wheat clover,2022,1M,15-Jul,0
+103,b1,fall wheat clover,2022,1M,15-Aug,0
+103,b1,fall wheat clover,2022,1M,15-Sep,0
+103,b1,fall wheat clover,2022,1M,15-Oct,0
+203,b2,fall wheat clover,2022,1M,1-Jun,48
+203,b2,fall wheat clover,2022,1M,30-Jun,20
+203,b2,fall wheat clover,2022,1M,15-Jul,16
+203,b2,fall wheat clover,2022,1M,15-Aug,0
+203,b2,fall wheat clover,2022,1M,15-Sep,0
+203,b2,fall wheat clover,2022,1M,15-Oct,8
+305,b3,fall wheat clover,2022,1M,1-Jun,40
+305,b3,fall wheat clover,2022,1M,30-Jun,0
+305,b3,fall wheat clover,2022,1M,15-Jul,8
+305,b3,fall wheat clover,2022,1M,15-Aug,4
+305,b3,fall wheat clover,2022,1M,15-Sep,0
+305,b3,fall wheat clover,2022,1M,15-Oct,0
+401,b4,fall wheat clover,2022,1M,1-Jun,12
+401,b4,fall wheat clover,2022,1M,30-Jun,36
+401,b4,fall wheat clover,2022,1M,15-Jul,0
+401,b4,fall wheat clover,2022,1M,15-Aug,0
+401,b4,fall wheat clover,2022,1M,15-Sep,0
+401,b4,fall wheat clover,2022,1M,15-Oct,0
+106,b1,oats cc mix,2022,1M,1-Jun,8
+106,b1,oats cc mix,2022,1M,30-Jun,12
+106,b1,oats cc mix,2022,1M,15-Jul,0
+106,b1,oats cc mix,2022,1M,15-Aug,0
+106,b1,oats cc mix,2022,1M,15-Sep,2
+106,b1,oats cc mix,2022,1M,15-Oct,0
+205,b2,oats cc mix,2022,1M,1-Jun,8
+205,b2,oats cc mix,2022,1M,30-Jun,8
+205,b2,oats cc mix,2022,1M,15-Jul,4
+205,b2,oats cc mix,2022,1M,15-Aug,16
+205,b2,oats cc mix,2022,1M,15-Sep,0
+205,b2,oats cc mix,2022,1M,15-Oct,0
+302,b3,oats cc mix,2022,1M,1-Jun,36
+302,b3,oats cc mix,2022,1M,30-Jun,12
+302,b3,oats cc mix,2022,1M,15-Jul,16
+302,b3,oats cc mix,2022,1M,15-Aug,24
+302,b3,oats cc mix,2022,1M,15-Sep,0
+302,b3,oats cc mix,2022,1M,15-Oct,0
+404,b4,oats cc mix,2022,1M,1-Jun,80
+404,b4,oats cc mix,2022,1M,30-Jun,16
+404,b4,oats cc mix,2022,1M,15-Jul,56
+404,b4,oats cc mix,2022,1M,15-Aug,0
+404,b4,oats cc mix,2022,1M,15-Sep,4
+404,b4,oats cc mix,2022,1M,15-Oct,0
+102,b1,rye silage ssgrass,2022,1M,1-Jun,40
+102,b1,rye silage ssgrass,2022,1M,30-Jun,48
+102,b1,rye silage ssgrass,2022,1M,15-Jul,0
+102,b1,rye silage ssgrass,2022,1M,15-Aug,24
+102,b1,rye silage ssgrass,2022,1M,15-Sep,0
+102,b1,rye silage ssgrass,2022,1M,15-Oct,0
+206,b2,rye silage ssgrass,2022,1M,1-Jun,236
+206,b2,rye silage ssgrass,2022,1M,30-Jun,168
+206,b2,rye silage ssgrass,2022,1M,15-Jul,0
+206,b2,rye silage ssgrass,2022,1M,15-Aug,120
+206,b2,rye silage ssgrass,2022,1M,15-Sep,0
+206,b2,rye silage ssgrass,2022,1M,15-Oct,0
+301,b3,rye silage ssgrass,2022,1M,1-Jun,108
+301,b3,rye silage ssgrass,2022,1M,30-Jun,152
+301,b3,rye silage ssgrass,2022,1M,15-Jul,20
+301,b3,rye silage ssgrass,2022,1M,15-Aug,0
+301,b3,rye silage ssgrass,2022,1M,15-Sep,0
+301,b3,rye silage ssgrass,2022,1M,15-Oct,0
+403,b4,rye silage ssgrass,2022,1M,1-Jun,64
+403,b4,rye silage ssgrass,2022,1M,30-Jun,300
+403,b4,rye silage ssgrass,2022,1M,15-Jul,0
+403,b4,rye silage ssgrass,2022,1M,15-Aug,92
+403,b4,rye silage ssgrass,2022,1M,15-Sep,0
+403,b4,rye silage ssgrass,2022,1M,15-Oct,1
+105,b1,spring alfalfa oats,2022,1M,1-Jun,56
+105,b1,spring alfalfa oats,2022,1M,30-Jun,0
+105,b1,spring alfalfa oats,2022,1M,15-Jul,12
+105,b1,spring alfalfa oats,2022,1M,15-Aug,0
+105,b1,spring alfalfa oats,2022,1M,15-Sep,0
+105,b1,spring alfalfa oats,2022,1M,15-Oct,8
+202,b2,spring alfalfa oats,2022,1M,1-Jun,52
+202,b2,spring alfalfa oats,2022,1M,30-Jun,4
+202,b2,spring alfalfa oats,2022,1M,15-Jul,8
+202,b2,spring alfalfa oats,2022,1M,15-Aug,0
+202,b2,spring alfalfa oats,2022,1M,15-Sep,0
+202,b2,spring alfalfa oats,2022,1M,15-Oct,0
+304,b3,spring alfalfa oats,2022,1M,1-Jun,24
+304,b3,spring alfalfa oats,2022,1M,30-Jun,20
+304,b3,spring alfalfa oats,2022,1M,15-Jul,24
+304,b3,spring alfalfa oats,2022,1M,15-Aug,0
+304,b3,spring alfalfa oats,2022,1M,15-Sep,0
+304,b3,spring alfalfa oats,2022,1M,15-Oct,0
+405,b4,spring alfalfa oats,2022,1M,1-Jun,48
+405,b4,spring alfalfa oats,2022,1M,30-Jun,104
+405,b4,spring alfalfa oats,2022,1M,15-Jul,12
+405,b4,spring alfalfa oats,2022,1M,15-Aug,12
+405,b4,spring alfalfa oats,2022,1M,15-Sep,0
+405,b4,spring alfalfa oats,2022,1M,15-Oct,0
+101,b1,spring alfalfa orchard grass,2022,1M,1-Jun,144
+101,b1,spring alfalfa orchard grass,2022,1M,30-Jun,0
+101,b1,spring alfalfa orchard grass,2022,1M,15-Jul,8
+101,b1,spring alfalfa orchard grass,2022,1M,15-Aug,92
+101,b1,spring alfalfa orchard grass,2022,1M,15-Sep,0
+101,b1,spring alfalfa orchard grass,2022,1M,15-Oct,4
+204,b2,spring alfalfa orchard grass,2022,1M,1-Jun,88
+204,b2,spring alfalfa orchard grass,2022,1M,30-Jun,29
+204,b2,spring alfalfa orchard grass,2022,1M,15-Jul,24
+204,b2,spring alfalfa orchard grass,2022,1M,15-Aug,40
+204,b2,spring alfalfa orchard grass,2022,1M,15-Sep,0
+204,b2,spring alfalfa orchard grass,2022,1M,15-Oct,4
+306,b3,spring alfalfa orchard grass,2022,1M,1-Jun,24
+306,b3,spring alfalfa orchard grass,2022,1M,30-Jun,32
+306,b3,spring alfalfa orchard grass,2022,1M,15-Jul,4
+306,b3,spring alfalfa orchard grass,2022,1M,15-Aug,44
+306,b3,spring alfalfa orchard grass,2022,1M,15-Sep,0
+306,b3,spring alfalfa orchard grass,2022,1M,15-Oct,0
+402,b4,spring alfalfa orchard grass,2022,1M,1-Jun,52
+402,b4,spring alfalfa orchard grass,2022,1M,30-Jun,23
+402,b4,spring alfalfa orchard grass,2022,1M,15-Jul,0
+402,b4,spring alfalfa orchard grass,2022,1M,15-Aug,12
+402,b4,spring alfalfa orchard grass,2022,1M,15-Sep,20
+402,b4,spring alfalfa orchard grass,2022,1M,15-Oct,0
+104,b1,fall wheat cc mix,2023,1M,1-Jun,5
+104,b1,fall wheat cc mix,2023,1M,30-Jun,0
+104,b1,fall wheat cc mix,2023,1M,15-Jul,1
+104,b1,fall wheat cc mix,2023,1M,15-Aug,3
+104,b1,fall wheat cc mix,2023,1M,15-Sep,1
+104,b1,fall wheat cc mix,2023,1M,15-Oct,2
+201,b2,fall wheat cc mix,2023,1M,1-Jun,0
+201,b2,fall wheat cc mix,2023,1M,30-Jun,2
+201,b2,fall wheat cc mix,2023,1M,15-Jul,0
+201,b2,fall wheat cc mix,2023,1M,15-Aug,15
+201,b2,fall wheat cc mix,2023,1M,15-Sep,1
+201,b2,fall wheat cc mix,2023,1M,15-Oct,0
+302,b3,fall wheat cc mix,2023,1M,1-Jun,8
+302,b3,fall wheat cc mix,2023,1M,30-Jun,0
+302,b3,fall wheat cc mix,2023,1M,15-Jul,0
+302,b3,fall wheat cc mix,2023,1M,15-Aug,18
+302,b3,fall wheat cc mix,2023,1M,15-Sep,11
+302,b3,fall wheat cc mix,2023,1M,15-Oct,0
+405,b4,fall wheat cc mix,2023,1M,1-Jun,2
+405,b4,fall wheat cc mix,2023,1M,30-Jun,0
+405,b4,fall wheat cc mix,2023,1M,15-Jul,8
+405,b4,fall wheat cc mix,2023,1M,15-Aug,1
+405,b4,fall wheat cc mix,2023,1M,15-Sep,5
+405,b4,fall wheat cc mix,2023,1M,15-Oct,2
+103,b1,fall wheat clover,2023,1M,1-Jun,6
+103,b1,fall wheat clover,2023,1M,30-Jun,0
+103,b1,fall wheat clover,2023,1M,15-Jul,0
+103,b1,fall wheat clover,2023,1M,15-Aug,3
+103,b1,fall wheat clover,2023,1M,15-Sep,1
+103,b1,fall wheat clover,2023,1M,15-Oct,0
+203,b2,fall wheat clover,2023,1M,1-Jun,1
+203,b2,fall wheat clover,2023,1M,30-Jun,3
+203,b2,fall wheat clover,2023,1M,15-Jul,0
+203,b2,fall wheat clover,2023,1M,15-Aug,7
+203,b2,fall wheat clover,2023,1M,15-Sep,1
+203,b2,fall wheat clover,2023,1M,15-Oct,0
+306,b3,fall wheat clover,2023,1M,1-Jun,0
+306,b3,fall wheat clover,2023,1M,30-Jun,1
+306,b3,fall wheat clover,2023,1M,15-Jul,0
+306,b3,fall wheat clover,2023,1M,15-Aug,4
+306,b3,fall wheat clover,2023,1M,15-Sep,2
+306,b3,fall wheat clover,2023,1M,15-Oct,0
+402,b4,fall wheat clover,2023,1M,1-Jun,2
+402,b4,fall wheat clover,2023,1M,30-Jun,0
+402,b4,fall wheat clover,2023,1M,15-Jul,0
+402,b4,fall wheat clover,2023,1M,15-Aug,7
+402,b4,fall wheat clover,2023,1M,15-Sep,2
+402,b4,fall wheat clover,2023,1M,15-Oct,0
+106,b1,oats cc mix,2023,1M,1-Jun,6
+106,b1,oats cc mix,2023,1M,30-Jun,9
+106,b1,oats cc mix,2023,1M,15-Jul,9
+106,b1,oats cc mix,2023,1M,15-Aug,5
+106,b1,oats cc mix,2023,1M,15-Sep,0
+106,b1,oats cc mix,2023,1M,15-Oct,6
+202,b2,oats cc mix,2023,1M,1-Jun,6
+202,b2,oats cc mix,2023,1M,30-Jun,4
+202,b2,oats cc mix,2023,1M,15-Jul,1
+202,b2,oats cc mix,2023,1M,15-Aug,8
+202,b2,oats cc mix,2023,1M,15-Sep,0
+202,b2,oats cc mix,2023,1M,15-Oct,0
+305,b3,oats cc mix,2023,1M,1-Jun,15
+305,b3,oats cc mix,2023,1M,30-Jun,2
+305,b3,oats cc mix,2023,1M,15-Jul,0
+305,b3,oats cc mix,2023,1M,15-Aug,6
+305,b3,oats cc mix,2023,1M,15-Sep,0
+305,b3,oats cc mix,2023,1M,15-Oct,2
+403,b4,oats cc mix,2023,1M,1-Jun,2
+403,b4,oats cc mix,2023,1M,30-Jun,4
+403,b4,oats cc mix,2023,1M,15-Jul,0
+403,b4,oats cc mix,2023,1M,15-Aug,5
+403,b4,oats cc mix,2023,1M,15-Sep,1
+403,b4,oats cc mix,2023,1M,15-Oct,1
+102,b1,rye silage ssgrass,2023,1M,1-Jun,15
+102,b1,rye silage ssgrass,2023,1M,30-Jun,45
+102,b1,rye silage ssgrass,2023,1M,15-Jul,2
+102,b1,rye silage ssgrass,2023,1M,15-Aug,5
+102,b1,rye silage ssgrass,2023,1M,15-Sep,6
+102,b1,rye silage ssgrass,2023,1M,15-Oct,8
+206,b2,rye silage ssgrass,2023,1M,1-Jun,1
+206,b2,rye silage ssgrass,2023,1M,30-Jun,26
+206,b2,rye silage ssgrass,2023,1M,15-Jul,0
+206,b2,rye silage ssgrass,2023,1M,15-Aug,5
+206,b2,rye silage ssgrass,2023,1M,15-Sep,0
+206,b2,rye silage ssgrass,2023,1M,15-Oct,9
+304,b3,rye silage ssgrass,2023,1M,1-Jun,22
+304,b3,rye silage ssgrass,2023,1M,30-Jun,16
+304,b3,rye silage ssgrass,2023,1M,15-Jul,6
+304,b3,rye silage ssgrass,2023,1M,15-Aug,0
+304,b3,rye silage ssgrass,2023,1M,15-Sep,3
+304,b3,rye silage ssgrass,2023,1M,15-Oct,4
+401,b4,rye silage ssgrass,2023,1M,1-Jun,2
+401,b4,rye silage ssgrass,2023,1M,30-Jun,34
+401,b4,rye silage ssgrass,2023,1M,15-Jul,11
+401,b4,rye silage ssgrass,2023,1M,15-Aug,0
+401,b4,rye silage ssgrass,2023,1M,15-Sep,2
+401,b4,rye silage ssgrass,2023,1M,15-Oct,5
+105,b1,spring alfalfa oats,2023,1M,1-Jun,7
+105,b1,spring alfalfa oats,2023,1M,30-Jun,1
+105,b1,spring alfalfa oats,2023,1M,15-Jul,2
+105,b1,spring alfalfa oats,2023,1M,15-Aug,3
+105,b1,spring alfalfa oats,2023,1M,15-Sep,0
+105,b1,spring alfalfa oats,2023,1M,15-Oct,3
+204,b2,spring alfalfa oats,2023,1M,1-Jun,10
+204,b2,spring alfalfa oats,2023,1M,30-Jun,3
+204,b2,spring alfalfa oats,2023,1M,15-Jul,6
+204,b2,spring alfalfa oats,2023,1M,15-Aug,7
+204,b2,spring alfalfa oats,2023,1M,15-Sep,0
+204,b2,spring alfalfa oats,2023,1M,15-Oct,0
+301,b3,spring alfalfa oats,2023,1M,1-Jun,16
+301,b3,spring alfalfa oats,2023,1M,30-Jun,4
+301,b3,spring alfalfa oats,2023,1M,15-Jul,0
+301,b3,spring alfalfa oats,2023,1M,15-Aug,6
+301,b3,spring alfalfa oats,2023,1M,15-Sep,7
+301,b3,spring alfalfa oats,2023,1M,15-Oct,4
+406,b4,spring alfalfa oats,2023,1M,1-Jun,3
+406,b4,spring alfalfa oats,2023,1M,30-Jun,2
+406,b4,spring alfalfa oats,2023,1M,15-Jul,0
+406,b4,spring alfalfa oats,2023,1M,15-Aug,1
+406,b4,spring alfalfa oats,2023,1M,15-Sep,0
+406,b4,spring alfalfa oats,2023,1M,15-Oct,0
+101,b1,spring alfalfa orchard grass,2023,1M,1-Jun,18
+101,b1,spring alfalfa orchard grass,2023,1M,30-Jun,19
+101,b1,spring alfalfa orchard grass,2023,1M,15-Jul,4
+101,b1,spring alfalfa orchard grass,2023,1M,15-Aug,6
+101,b1,spring alfalfa orchard grass,2023,1M,15-Sep,1
+101,b1,spring alfalfa orchard grass,2023,1M,15-Oct,1
+205,b2,spring alfalfa orchard grass,2023,1M,1-Jun,12
+205,b2,spring alfalfa orchard grass,2023,1M,30-Jun,15
+205,b2,spring alfalfa orchard grass,2023,1M,15-Jul,1
+205,b2,spring alfalfa orchard grass,2023,1M,15-Aug,6
+205,b2,spring alfalfa orchard grass,2023,1M,15-Sep,8
+205,b2,spring alfalfa orchard grass,2023,1M,15-Oct,0
+303,b3,spring alfalfa orchard grass,2023,1M,1-Jun,21
+303,b3,spring alfalfa orchard grass,2023,1M,30-Jun,29
+303,b3,spring alfalfa orchard grass,2023,1M,15-Jul,0
+303,b3,spring alfalfa orchard grass,2023,1M,15-Aug,12
+303,b3,spring alfalfa orchard grass,2023,1M,15-Sep,15
+303,b3,spring alfalfa orchard grass,2023,1M,15-Oct,0
+404,b4,spring alfalfa orchard grass,2023,1M,1-Jun,5
+404,b4,spring alfalfa orchard grass,2023,1M,30-Jun,16
+404,b4,spring alfalfa orchard grass,2023,1M,15-Jul,8
+404,b4,spring alfalfa orchard grass,2023,1M,15-Aug,4
+404,b4,spring alfalfa orchard grass,2023,1M,15-Sep,4
+404,b4,spring alfalfa orchard grass,2023,1M,15-Oct,2
