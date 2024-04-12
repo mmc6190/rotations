@@ -1,0 +1,49 @@
+﻿plot,block,treatment,year,height.2,height.3,height.4
+101,b1,spring alfalfa orchard grass,2023,3,0,0
+102,b1,rye silage ssgrass,2023,0,5,0
+103,b1,fall wheat clover,2023,1,1,0
+104,b1,fall wheat cc mix,2023,0,2,1
+105,b1,spring alfalfa oats,2023,0,5,0
+106,b1,oats cc mix,2023,0,5,0
+201,b2,fall wheat cc mix,2023,1,0,2
+202,b2,oats cc mix,2023,0,1,0
+203,b2,fall wheat clover,2023,0,1,0
+204,b2,spring alfalfa oats,2023,2,2,0
+205,b2,spring alfalfa orchard grass,2023,4,3,0
+206,b2,rye silage ssgrass,2023,2,4,0
+301,b3,spring alfalfa oats,2023,3,3,0
+302,b3,fall wheat cc mix,2023,1,7,3
+303,b3,spring alfalfa orchard grass,2023,2,0,0
+304,b3,rye silage ssgrass,2023,3,2,0
+305,b3,oats cc mix,2023,0,3,1
+306,b3,fall wheat clover,2023,0,0,0
+401,b4,rye silage ssgrass,2023,0,2,0
+402,b4,fall wheat clover,2023,3,0,0
+403,b4,oats cc mix,2023,0,0,0
+404,b4,spring alfalfa orchard grass,2023,0,1,0
+405,b4,fall wheat cc mix,2023,4,2,0
+406,b4,spring alfalfa oats,2023,0,0,0
+101,b1,spring alfalfa orchard grass,2022,1,0,3
+102,b1,rye silage ssgrass,2022,0,4,0
+103,b1,fall wheat clover,2022,0,0,0
+104,b1,fall wheat cc mix,2022,0,0,0
+105,b1,spring alfalfa oats,2022,0,0,0
+106,b1,oats cc mix,2022,0,0,0
+201,b2,fall wheat cc mix,2022,0,3,0
+202,b2,spring alfalfa oats,2022,0,0,0
+203,b2,fall wheat clover,2022,0,0,0
+204,b2,spring alfalfa orchard grass,2022,0,0,0
+205,b2,oats cc mix,2022,0,0,0
+206,b2,rye silage ssgrass,2022,0,0,0
+301,b3,rye silage ssgrass,2022,0,0,0
+302,b3,oats cc mix,2022,0,0,0
+303,b3,fall wheat cc mix,2022,0,0,0
+304,b3,spring alfalfa oats,2022,0,0,1
+305,b3,fall wheat clover,2022,0,0,0
+306,b3,spring alfalfa orchard grass,2022,0,0,0
+401,b4,fall wheat clover,2022,0,0,0
+402,b4,spring alfalfa orchard grass,2022,0,0,0
+403,b4,rye silage ssgrass,2022,0,0,0
+404,b4,oats cc mix,2022,0,0,0
+405,b4,spring alfalfa oats,2022,0,4,0
+406,b4,fall wheat cc mix,2022,0,0,0
